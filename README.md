@@ -1,9 +1,9 @@
 <h1 align="center">Hallo 👋, I'm Aleix</h1>
 <h3 align="center">A passionate data scientist / developer from Spain</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aindriu80&label=Profile%20views&color=0e75b6&style=flat" alt="aindriu80" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AleixMT&label=Profile%20views&color=0e75b6&style=flat" alt="AleixMT" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aindriu80" alt="aindriu80" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AleixMT" alt="AleixMT" /></a> </p>
 
 <p align="center">- 🔭 I’m currently working on ... </p>
 <p align="center">- 🌱 I’m currently learning ... </p>
@@ -18,12 +18,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/aindriu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aindriu80" height="30" width="40" /></a>
-<a href="https://dev.to/aindriu80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aindriu80" height="30" width="40" /></a>
-<a href="https://twitter.com/aindriu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aindriu80" height="30" width="40" /></a>
+<a href="https://codepen.io/AleixMT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="AleixMT" height="30" width="40" /></a>
+<a href="https://dev.to/AleixMT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="AleixMT" height="30" width="40" /></a>
+<a href="https://twitter.com/AleixMT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aindriu80" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aindriu-mac-giolla-eoin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aindriu-mac-giolla-eoin/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2757347/aindriú" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2757347/aindriú" height="30" width="40" /></a>
-<a href="https://dribbble.com/aindriu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aindriu80" height="30" width="40" /></a>
+<a href="https://dribbble.com/AleixMT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="AleixMT" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -36,14 +36,14 @@
 </p>
 <div align="center">&nbsp;
 
-<img align="" src="https://github-readme-stats.vercel.app/api?username=aindriu80&show_icons=true&locale=en" width="600" height="400" alt="aindriu80">
+<img align="" src="https://github-readme-stats.vercel.app/api?username=AleixMT&show_icons=true&locale=en" width="600" height="400" alt="AleixMT">
 
 <!-- <p align="center"> -->
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=aindriu80&show_icons=true&locale=en&layout=compact" width="600" height="400" alt="aindriu80" />
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleixMT&show_icons=true&locale=en&layout=compact" width="600" height="400" alt="AleixMT" />
 
 <!-- <p align="right"> -->
 
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=aindriu80" width="600" height="400" alt="aindriu80" />
+<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=AleixMT" width="600" height="400" alt="AleixMT" />
 
 <!-- </p> -->
 
