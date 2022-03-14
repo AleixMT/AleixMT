@@ -24,7 +24,6 @@
 <a href="https://www.linkedin.com/in/aleix-marin%C3%A9-083672122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AleixMT LinkedIn" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/7733017/aleix-marin%c3%a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="AleixMT StackOverflow" height="30" width="40" /></a>
 <!-- <a href="https://dribbble.com/AleixMT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="AleixMT" height="30" width="40" /></a> -->
-  
 </p>
 
 <h3 align="center">Languages:</h3>
@@ -44,8 +43,7 @@
 <!--  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> -->
 <!--  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> -->
 
-  <br>
-<br>
+  </p>
 
   
   <h3 align="center">Tools:</h3>
