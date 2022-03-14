@@ -1,18 +1,17 @@
-<h1 align="center">Hallo 👋, I'm Aleix</h1>
+<h1 align="center">Hi there 👋, I'm Aleix</h1>
 <h3 align="center">A passionate data scientist / developer from Spain</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AleixMT&label=Profile%20views&color=0e75b6&style=flat" alt="AleixMT" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AleixMT" alt="AleixMT" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working on ... </p>
-<p align="center">- 🌱 I’m currently learning ... </p>
-<p align="center">- 👯 I’m looking to collaborate on ... </p>
-<p align="center">- 🤔 I’m looking for help with ... </p>
-<p align="center">- 💬 Ask me about ... </p>
-<p align="center">- 📫 How to reach me: ... </p>
-<p align="center">- 😄 Pronouns: ... </p>
-<p align="center">- ⚡ Fun fact: ... </p>
+<p align="center">- 🔭 I’m currently working on an [chemistry e-notebook](https://github.com/AleixMT/eChempad) </p>
+<p align="center">- 🌱 I’m currently learning [SpringBoot](https://spring.io/projects/spring-boot) </p>
+<p align="center">- 👯 I’m looking to collaborate on open-source scientific software</p>
+<p align="center">- 🤔 I’m looking for help with [a Linux auto-customization tool in Bash](https://github.com/AleixMT/Linux-Auto-Customizer) </p>
+<p align="center">- 💬 Ask me about [BASH](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) </p>
+<p align="center">- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleix-marin%C3%A9-083672122/) </p>
+<p align="center">- ⚡ Fun fact: No word in the dictionary rhyme with the word orange. </p>
 
 <br>
 
