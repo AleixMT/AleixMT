@@ -8,7 +8,7 @@
 <p align="center">- 🔭 I’m currently working on an <a href="https://github.com/AleixMT/eChempad">A chemistry e-notebook</a> </p>
 <p align="center">- 🌱 I’m currently learning <a href="https://spring.io/projects/spring-boot">SpringBoot</a> </p>
 <p align="center">- 👯 I’m looking to collaborate on open-source scientific software</p>
-<p align="center">- 🤔 I’m looking for help with <a href="https://github.com/AleixMT/Linux-Auto-Customizer">a Linux auto-customization tool in BASH</a> </p>
+<p align="center">- 🤔 I’m looking for the 2nd phase of prog M from  <a href="https://github.com/AleixMT/GarlicOS">Garlic OS from Computadors (URV)</a> </p>
 <p align="center">- 💬 Ask me about <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">BASH</a> </p>
 <p align="center">- 📫 How to reach me: <a href="https://www.linkedin.com/in/aleix-marin%C3%A9-083672122/">LinkedIn</a> </p>
 <p align="center">- ⚡ Fun fact: No word in the dictionary rhyme with the word orange. </p>
