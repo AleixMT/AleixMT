@@ -1,8 +1,23 @@
 <h3 align="center">A scientist & engineer working as full-stack developer & data steward</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat" alt="aleixmt" /> </p>
+<details>
+    <summary>Hello, friend</summary>
+    <p>
+      <img src="https://github.com/AleixMT/AleixMT/assets/23342150/a802e799-cfcf-4add-ae22-0aa96bbecb6c" alt="lol-haha" style="height:3.8cm;">
+  <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat" alt="aleixmt" style="height:3.8cm;"> 
+    </p>
+</details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleixmt" alt="aleixmt" /></a> </p>
+
+<!-- <div id="qr" style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center; vertical-align: middle;" >
+  <img src="https://github.com/AleixMT/AleixMT/assets/23342150/a802e799-cfcf-4add-ae22-0aa96bbecb6c" alt="lol-haha" style="height:3.8cm;">
+</div>
+<div style="display:inline-block;vertical-align: middle;">
+  <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat" alt="aleixmt" /> 
+</div>
+-->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleixmt" alt="aleixmt" /></a> </p>
 
 - 🔭 I’m currently working on [a web application to manage experimental chemistry data life cycle at ICIQ](https://github.com/AleixMT/eChempad)
 
@@ -56,5 +71,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleixmt&" alt="aleixmt" /></p>
+
+
+
 
 <!-- This file was partly generated with this tool https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
