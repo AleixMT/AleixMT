@@ -57,10 +57,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleixmt&" alt="aleixmt" /></p>
 
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <!-- This file was partly generated with this tool https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
