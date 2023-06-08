@@ -4,10 +4,9 @@
     <summary>Hello, friend</summary>
     <p>
       <img src="https://github.com/AleixMT/AleixMT/assets/23342150/a802e799-cfcf-4add-ae22-0aa96bbecb6c" alt="lol-haha" style="height:3.8cm;">
-  <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat" alt="aleixmt" style="height:3.8cm;"> 
+      <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat" alt="aleixmt" style="display:inline-block;vertical-align: middle;"> 
     </p>
 </details>
-
 
 <!-- <div id="qr" style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center; vertical-align: middle;" >
   <img src="https://github.com/AleixMT/AleixMT/assets/23342150/a802e799-cfcf-4add-ae22-0aa96bbecb6c" alt="lol-haha" style="height:3.8cm;">
