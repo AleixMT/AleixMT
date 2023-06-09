@@ -23,7 +23,7 @@
 - 👨‍💻 All of my projects are available at [https://aleixmt.github.io/](https://aleixmt.github.io/) (not finished)
 - 📝 I regularly ask and answer questions on [Stack Overflow](https://stackoverflow.com/users/7733017/aleix-marin%c3%a9)
 - 💬 Ask me about **bash, paralelization or application design**.
-- 📫 How to reach me **[aleix.marine@gmail.com](aleixaretra@gmail.com)**
+- 📫 How to reach me **[aleix.marine@estudiants.urv.cat](aleix.marine@estudiants.urv.cat)**
 - 📄 Know about my experiences in [LinkedIn](https://www.linkedin.com/in/aleix-marin%C3%A9-083672122/)
 - ⚡ Fun fact **Hackerman from Kung Fury is the mastermind of Elliot Alderson from Mr. Robot**
 
