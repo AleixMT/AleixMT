@@ -17,14 +17,14 @@
 
 <!-- User status -->
 - 🔭 I’m currently working on [a web application to manage experimental chemistry data life cycle at ICIQ](https://github.com/AleixMT/eChempad)
-- 🌱 I’m currently learning **Spring Boot & DevOps technology: Ansible, docker & kubernetes**
+- 🌱 I’m currently learning **Spring Boot & DevOps technology: Ansible, Docker & Kubernetes**
 - 👯 I’m looking to collaborate on [a bash project to automate customizations and installations](https://github.com/AleixMT/Linux-Auto-Customizer)
 - 🤝 I’m looking for help with [the second phase of the progM programmer from Garlic OS (CS-URV: ESO)](https://github.com/AleixMT/GarlicOS)
-- 👨‍💻 All of my projects are available at (not finished)) [https://aleixmt.github.io/](https://aleixmt.github.io/)
-- 📝 I regularly ask and answer questions on Stack Overflow [https://stackoverflow.com/users/7733017/aleix-marin%c3%a9](https://stackoverflow.com/users/7733017/aleix-marin%c3%a9)
-- 💬 Ask me about **bash, paralelization, application design**
-- 📫 How to reach me **aleixaretra@gmail.com**
-- 📄 Know about my experiences (LinkedIn) [https://www.linkedin.com/in/aleix-marin%C3%A9-083672122/](https://www.linkedin.com/in/aleix-marin%C3%A9-083672122/)
+- 👨‍💻 All of my projects are available at [https://aleixmt.github.io/](https://aleixmt.github.io/) (not finished)
+- 📝 I regularly ask and answer questions on [Stack Overflow](https://stackoverflow.com/users/7733017/aleix-marin%c3%a9)
+- 💬 Ask me about **bash, paralelization or application design**.
+- 📫 How to reach me **[aleix.marine@gmail.com](aleixaretra@gmail.com)**
+- 📄 Know about my experiences in [LinkedIn](https://www.linkedin.com/in/aleix-marin%C3%A9-083672122/)
 - ⚡ Fun fact **Hackerman from Kung Fury is the mastermind of Elliot Alderson from Mr. Robot**
 
 <!-- Social media -->
@@ -44,14 +44,12 @@
 
 <!-- Support and donations -->
 <h3 align="center">Support:</h3>
-<p>
+<p align="center">
     <a href="https://www.buymeacoffee.com/VidWise"> 
         <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="VidWise" />
     </a>
 </p>
 <br><br>
-
-
 
 <!-- User stats -->
 <h3 align="center">Profile stats:</h3>
@@ -62,14 +60,16 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleixmt&show_icons=true&locale=en&layout=compact" alt="aleixmt" />
 </p>
-
+<!-- Github stats -->
 <p align="center">&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleixmt&show_icons=true&locale=en" alt="aleixmt" />
 </p>
+<!-- Streak -->
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleixmt&" alt="aleixmt" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleixmt&" alt="aleixmt" /></p>
-
-<!-- Automatic blog post retrieval -->
+<!-- Automatic blog post retrieval (github action) -->
 <h3 align="center">Latest blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
