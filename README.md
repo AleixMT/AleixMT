@@ -74,7 +74,7 @@
 <!-- Automatic blog post retrieval (github action) -->
 <details>
 <summary><h3 align="center">📋 Latest blog posts:</h3></summary>
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
 - [Display donut in the terminal](https://dev.to/aleixmt/display-donut-in-the-terminal-1c3f)
 <!-- BLOG-POST-LIST:END -->
 </details>
