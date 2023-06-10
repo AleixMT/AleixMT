@@ -50,9 +50,10 @@
     </a>
 </p>
 <br><br>
-
+<details>
+<summary><h3 align="center">📈 Profile stats:</h3></summary>
 <!-- User stats -->
-<h3 align="center">Profile stats:</h3>
+
 <!-- Trophies -->
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleixmt" alt="aleixmt" /></a> </p>
@@ -68,7 +69,8 @@
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleixmt&" alt="aleixmt" />
 </p>
-
+</details>
+	
 <!-- Automatic blog post retrieval (github action) -->
 <h3 align="center">Latest blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
