@@ -49,7 +49,7 @@
 
 <!-- Technical skills -->
 <details>
-<summary><h3 align="center">Technology stacks:</h3></summary>
+<summary><h3 align="center">👩🏾‍💻 Technology stacks:</h3></summary>
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
 	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
