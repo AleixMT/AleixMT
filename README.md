@@ -37,9 +37,10 @@
 <a href="https://www.leetcode.com/aleixmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aleixmt" height="30" width="40" /></a>
 <a href="https://discord.gg/1103985156227874816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1103985156227874816" height="30" width="40" /></a>
 </p>
-
+	
 <!-- Technical skills -->
-<h3 align="center">Technology stacks:</h3>
+<details>
+<summary><h3 align="center">Technology stacks:</h3></summary>
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
 	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -82,6 +83,7 @@
 	<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 	<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</details>
 
 <!-- Support and donations -->
 <h3 align="center">Support:</h3>
