@@ -131,7 +131,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleixmt" alt="aleixmt" /></a> </p>
 <!-- Most used languages -->
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleixmt&show_icons=true&locale=en&layout=compact" alt="aleixmt" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleixmt&show_icons=true&locale=en&layout=compact&langs_count=10" alt="aleixmt" />
 </p>
 <!-- Github stats -->
 <p align="center">&nbsp;
