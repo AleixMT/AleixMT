@@ -16,12 +16,9 @@
 </div>
 
 <!-- User status -->
-- 🔭 I’m currently working on [a web application to manage experimental chemistry data life cycle at ICIQ](https://github.com/ICIQ-DMP/eChempad-public-mirror)
-- 🌱 I’m currently learning **Spring Boot & DevOps technology: Ansible, Docker & Kubernetes**
-- 👯 I’m looking to collaborate on [a bash project to automate customizations and installations](https://github.com/AleixMT/Linux-Auto-Customizer)
-- 🤝 I’m looking for help with [the second phase of the progM programmer from Garlic OS (CS-URV: ESO)](https://github.com/AleixMT/GarlicOS)
-- 👨‍💻 All of my projects are available at [https://aleixmt.github.io/](https://aleixmt.github.io/) (not finished)
-- ⚡ Fun fact **Hackerman from Kung Fury is the mastermind of Elliot Alderson from Mr. Robot**
+<h6 align="center">🔭 I’m currently working on <a href="https://github.com/ICIQ-DMP/eChempad-public-mirror" target="blank">a web application to manage experimental chemistry data life cycle at ICIQ </a>. <a href="https://echempad.iciq.es/" target="blank">Check it out! </a></h6>
+<h6 align="center"> 👨‍💻 You can know more about me in <a href="https://aleixmt.github.io" target="blank"> my portfolio </a></h6>									
+<h6 align="center">⚡ Fun fact Hackerman from Kung Fury is the mastermind of Elliot Alderson from Mr. Robot </h6>
 
 <!-- Social media -->
 <h3 align="center">Connect with me:</h3>
