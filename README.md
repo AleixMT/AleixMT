@@ -60,7 +60,7 @@
 <img src="https://media.githubusercontent.com/media/AleixMT/Linux-Auto-Customizer/master/.github/logo.png" width="250" height="290"/>
 </p>
 
-May 2019 - Present
+<i> May 2019 - Present </i>
 * Utility to automate installations and customizations to your Linux client machine. 
 * Contains almost 300 precoded installations and customizations that you can use out-of-the-box.
 * Certain compatibility with Windows.
@@ -83,7 +83,7 @@ May 2019 - Present
 <img src="https://raw.githubusercontent.com/ICIQ-DMP/eChempad-public-mirror/a8b8b3750bbc5eea9cc1b2a24ede46deb90bb72d/src/main/resources/static/img/create-small-white.png" width="133" height="34"/>
 </p>
 
-September 2021 - Present
+<i> September 2021 - Present </i>
 * Web platform to manage the life-cycle of data from experimental chemistry at [ICIQ](https://www.iciq.org/).
 * Currently allows the import of data from [Perkin-Elmer Signals notebook](https://www.perkinelmer.com/libraries/sht_perkinelmer-signals-notebook-013433_01) and the export of this data into the [Dataverse](https://dataverse.org/) of [CORA RDR](https://dataverse.csuc.cat/).
 * Check out [the documentation](https://iciq-dmp.github.io/) to get started. 
