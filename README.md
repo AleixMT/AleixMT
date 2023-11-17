@@ -64,7 +64,7 @@ May 2019 - Present
 * [Check out how to start using it](https://github.com/AleixMT/Linux-Auto-Customizer/wiki/Getting-started) or [check the installations that are already implemented](https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md).
 
 <p align="center"> 
-	Technologies:
+	Used technologies: <br>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="40" height="40"/> </a> 
 </p>
 
@@ -85,7 +85,7 @@ September 2021 - Present
 * Using Java + Spring Boot + PostgreSQL on the Backend and ZK + bootstrap on the frontend.
 
 <p align="center"> 
-	Technologies:
+	Used technologies: <br>
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 	<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
