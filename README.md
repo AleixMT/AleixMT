@@ -60,7 +60,8 @@
 
 May 2019 - Present
 * Utility to automate installations and customizations to your Linux client machine. 
-* Contains almost 300 precoded installations that you can use out-of-the-box.
+* Contains almost 300 precoded installations and customizations that you can use out-of-the-box.
+* Certain compatibility with Windows.
 * [Check out how to start using it](https://github.com/AleixMT/Linux-Auto-Customizer/wiki/Getting-started) or [check the installations that are already implemented](https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md).
 
 <p align="center"> 
@@ -80,9 +81,8 @@ May 2019 - Present
 </p>
 
 September 2021 - Present
-* Web platform to manage the life-cycle of data from experimental chemistry at ICIQ.
-* Currently allows the import of data from Perkin-Elmer Signals notebook using its API and the export of this data into the Dataverse of CORA RDR.
-* Using Java + Spring Boot + PostgreSQL on the Backend and ZK + bootstrap on the frontend.
+* Web platform to manage the life-cycle of data from experimental chemistry at [ICIQ](https://www.iciq.org/).
+* Currently allows the import of data from [Perkin-Elmer Signals notebook](https://www.perkinelmer.com/libraries/sht_perkinelmer-signals-notebook-013433_01) and the export of this data into the [Dataverse](https://dataverse.org/) of [CORA RDR](https://dataverse.csuc.cat/).
 
 <p align="center"> 
 	Used technologies: <br>
@@ -108,7 +108,6 @@ September 2021 - Present
 </p>
 
 </details>
-
 
 
 </details>
