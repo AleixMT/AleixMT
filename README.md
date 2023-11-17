@@ -16,7 +16,6 @@
 </div>
 
 <!-- User status -->
-<h6 align="center">🔭 I’m currently working on <a href="https://github.com/ICIQ-DMP/eChempad-public-mirror" target="blank">a web application to manage experimental chemistry data life cycle at ICIQ </a>. <a href="https://echempad.iciq.es/" target="blank">Check it out! </a></h6>
 <h6 align="center"> 👨‍💻 You can know more about me in <a href="https://aleixmt.github.io" target="blank"> my portfolio </a></h6>									
 <h6 align="center">⚡ Fun fact Hackerman from Kung Fury is the mastermind of Elliot Alderson from Mr. Robot </h6>
 
@@ -59,10 +58,15 @@
 <img src="https://media.githubusercontent.com/media/AleixMT/Linux-Auto-Customizer/master/.github/logo.png" width="250" height="290"/>
 </p>
 
-August 2020 - Present
-* Utility to automate installations and customizations to your local client machine.
+May 2019 - Present
+* Utility to automate installations and customizations to your Linux client machine. 
 * Contains almost 300 precoded installations that you can use out-of-the-box.
-* Completely written in BASH.
+* [Check out how to start using it](https://github.com/AleixMT/Linux-Auto-Customizer/wiki/Getting-started) or [check the installations that are already implemented](https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md).
+
+<p align="center"> 
+	Technologies:
+	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="40" height="40"/> </a> 
+</p>
 
 </details>
 
@@ -75,10 +79,33 @@ August 2020 - Present
 <img src="https://raw.githubusercontent.com/ICIQ-DMP/eChempad-public-mirror/a8b8b3750bbc5eea9cc1b2a24ede46deb90bb72d/src/main/resources/static/img/create-small-white.png" width="133" height="34"/>
 </p>
 
-February 2021 - Present
+September 2021 - Present
 * Web platform to manage the life-cycle of data from experimental chemistry at ICIQ.
 * Currently allows the import of data from Perkin-Elmer Signals notebook using its API and the export of this data into the Dataverse of CORA RDR.
 * Using Java + Spring Boot + PostgreSQL on the Backend and ZK + bootstrap on the frontend.
+
+<p align="center"> 
+	Technologies:
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+	<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+	<a href="https://www.zkoss.org" target="_blank" rel="noreferrer"> <img src="https://www.zkoss.org/resource/img/support/press_zklogo1.png" alt="flask" width="40" height="40"/> </a> 
+	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="40" height="40"/> </a> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+	<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="40" height="40"/> </a>
+	<a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png" alt="MarkDown" width="40" height="40"/> </a>
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+	<a href="https://github.com/AleixMT/Linux-Auto-Customizer" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/AleixMT/Linux-Auto-Customizer/master/.github/logo.png" alt="Linux Auto Customizer" width="40" height="40"/> </a> 
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+	<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
+	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+maven-1324451386617447973.png" alt="Apache Maven" width="40" height="40"/> </a> 
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+	<a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg" alt="GitHub Actions" width="40" height="40"/> </a>
+	<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="40" height="40"/> </a> 
+</p>
 
 </details>
 
@@ -164,6 +191,7 @@ February 2021 - Present
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+maven-1324451386617447973.png" alt="Apache Maven" width="40" height="40"/> </a> 
+	<a href="https://www.gnu.org/software/make/manual/make.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11Ii9Op3FvZHST_TmRPNcE8-lYtjqny4Qk8lAzf9pS-IL3F62UCB3dqfEEH0zbipd91w&usqp=CAU" alt="GNU make" width="40" height="40"/> </a> 
 	<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
 </p> 
 
@@ -212,6 +240,7 @@ February 2021 - Present
 <h5 align="center">Operating Systems:</h5>
 <p align="center"> 
 	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+	<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" alt="Debian" width="40" height="40"/> </a> 
 </p> 
 
 <h5 align="center">Platforms and hardware:</h5>
