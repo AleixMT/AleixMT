@@ -105,7 +105,7 @@
 <p align="center"> 
 	<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="nintendo 3ds" width="40" height="40"/> </a> 
 	<a href="https://en.wikipedia.org/wiki/Nintendo_3DS" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/nintendo/images/7/78/Nintendo_3DS_%28Blue_Model%29.png/revision/latest/thumbnail/width/360/height/360?cb=20220602020552&path-prefix=en" alt="nintendo 3ds" width="40" height="40"/> </a> 
-	<a href="https://en.wikipedia.org/wiki/Nintendo_Switch" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Nintendo-switch-icon.png" alt="nintendo switch" width="40" height="40"/> </a> 
+	<a href="https://en.wikipedia.org/wiki/Nintendo_Switch" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nintendo_switch_logo.png" alt="nintendo switch" width="40" height="40"/> </a> 
 	<a href="https://flipperzero.one/" target="_blank" rel="noreferrer"> <img src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" alt="flipper zero" width="40" height="40"/> </a> 
 </p> 
 
