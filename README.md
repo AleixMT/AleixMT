@@ -71,7 +71,7 @@
 <p align="center"> 
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-	<a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/YAML#/media/File:Official_YAML_Logo.svg" alt="yaml" width="40" height="40"/> </a>
+	<a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" alt="yaml" width="40" height="40"/> </a>
 	<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/> </a>
 	<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="40" height="40"/> </a>
 	<a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="MarkDown" width="40" height="40"/> </a>
