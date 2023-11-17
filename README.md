@@ -41,7 +41,7 @@
 </p>
 <p align="center">
     <a href="https://donate.stripe.com/28o15be6H8xlgyQ000"> 
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" height="50" width="210" alt="Donate with Stripe" />
+        <img align="center" src="https://www.silicon.es/wp-content/uploads/2022/06/companylogo_bf4b0be5.png" height="50" width="210" alt="Donate with Stripe" />
     </a>
 </p>
 <br><br>
