@@ -60,7 +60,7 @@
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-	<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" alt="assembly" width="40" height="40"/> </a> 
+	<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="assembly" width="40" height="40"/> </a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 	<a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/filesco/256/14.png" alt="assembly" width="40" height="40"/> </a> 
 </p>
