@@ -72,7 +72,7 @@ August 2020 - Present
 <summary><h4 align="center"><a href="https://github.com/ICIQ-DMP/eChempad-public-mirror"> eChempad </a>:</h4></summary> 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ICIQ-DMP/eChempad-public-mirror/a8b8b3750bbc5eea9cc1b2a24ede46deb90bb72d/src/main/resources/static/img/create-small-white.png" width="250" height="290"/>
+<img src="https://raw.githubusercontent.com/ICIQ-DMP/eChempad-public-mirror/a8b8b3750bbc5eea9cc1b2a24ede46deb90bb72d/src/main/resources/static/img/create-small-white.png" width="133" height="34"/>
 </p>
 
 February 2021 - Present
