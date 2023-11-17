@@ -128,7 +128,7 @@
 
 <h5 align="center">Cloud & serverless:</h5>
 <p align="center"> 
-	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg" alt="aws" width="40" height="40"/> </a> 
+	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" alt="aws" width="40" height="40"/> </a> 
 </p> 
 </details>
 
