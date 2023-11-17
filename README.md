@@ -128,7 +128,7 @@
 
 <h5 align="center">Cloud & serverless:</h5>
 <p align="center"> 
-	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" alt="aws" width="40" height="40"/> </a> 
+	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg" alt="aws" width="40" height="40"/> </a> 
 </p> 
 </details>
 
@@ -190,7 +190,7 @@
 
 <h5 align="center">Cloud & serverless:</h5>
 <p align="center"> 
-	<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/va65162e8ce9aacc75e4d3c0cd6d166fc6ceaaf184fea0ff0eac1d9b62c0480be/cloud/images/social-icon-google-cloud-1200-630.png" alt="Google Cloud" width="40" height="40"/> </a> 
+	<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" alt="Google Cloud" width="40" height="40"/> </a> 
 </p> 
 
 </details>
