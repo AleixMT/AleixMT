@@ -62,7 +62,7 @@
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 	<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="assembly" width="40" height="40"/> </a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-	<a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/filesco/256/14.png" alt="assembly" width="40" height="40"/> </a> 
+	<a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180807/zta/kisspng-batch-file-computer-icons-computer-file-ms-dos-acronym-programming-acronym-apps-on-google-pl-5b695e992c3588.2783639815336321531811.jpg" alt="assembly" width="40" height="40"/> </a> 
 </p>
 
 <h5 align="center">Markup languages:</h5>
