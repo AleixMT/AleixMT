@@ -174,6 +174,7 @@
 
 <h5 align="center">Platforms and hardware:</h5>
 <p align="center"> 
+	<a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> <img src="https://americansgameocio.com/4735-large_default/nintendo-ds.jpg" alt="nintendo ds" width="40" height="40"/> </a> 
 	<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="nintendo 3ds" width="40" height="40"/> </a> 
 	<a href="https://en.wikipedia.org/wiki/Nintendo_3DS" target="_blank" rel="noreferrer"> <img src="https://fs-prod-cdn.nintendo-europe.com/media/images/03_teaser_module_1_square/systems_2/nintendo_3ds_3/TM_GenericTMs_3DS.png" alt="nintendo 3ds" width="40" height="40"/> </a> 
 	<a href="https://en.wikipedia.org/wiki/Nintendo_Switch" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nintendo_switch_logo.png" alt="nintendo switch" width="40" height="40"/> </a> 
