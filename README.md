@@ -46,6 +46,46 @@
 </p>
 <br><br>
 
+
+
+<!-- Technical skills -->
+<details>
+<summary><h3 align="center">💼 My projects:</h3></summary>
+
+<details>
+<summary><h4 align="center"><a href="https://github.com/AleixMT/Linux-Auto-Customizer"> Linux-Auto-Customizer </a>:</h4></summary> 
+
+<p align="center">
+<img src="https://media.githubusercontent.com/media/AleixMT/Linux-Auto-Customizer/master/.github/logo.png" width="250" height="290"/>
+</p>
+
+August 2020 - Present
+* Utility to automate installations and customizations to your local client machine.
+* Contains almost 300 precoded installations that you can use out-of-the-box.
+* Completely written in BASH.
+
+</details>
+
+
+<summary><h4 align="center"><a href="https://github.com/ICIQ-DMP/eChempad-public-mirror"> eChempad </a>:</h4></summary> 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ICIQ-DMP/eChempad-public-mirror/a8b8b3750bbc5eea9cc1b2a24ede46deb90bb72d/src/main/resources/static/img/create-small-white.png" width="250" height="290"/>
+</p>
+
+February 2021 - Present
+* Web platform to manage the life-cycle of data from experimental chemistry at ICIQ.
+* Currently allows the import of data from Perkin-Elmer Signals notebook using its API and the export of this data into the Dataverse of CORA RDR.
+* Using Java + Spring Boot + PostgreSQL on the Backend and ZK + bootstrap on the frontend.
+
+</details>
+
+
+
+
+</details>
+
+
 <!-- Technical skills -->
 <details>
 <summary><h3 align="center">👩🏾‍💻 Technology stacks:</h3></summary>
