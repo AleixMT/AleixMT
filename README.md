@@ -67,6 +67,8 @@ August 2020 - Present
 </details>
 
 
+
+<details>
 <summary><h4 align="center"><a href="https://github.com/ICIQ-DMP/eChempad-public-mirror"> eChempad </a>:</h4></summary> 
 
 <p align="center">
@@ -79,7 +81,6 @@ February 2021 - Present
 * Using Java + Spring Boot + PostgreSQL on the Backend and ZK + bootstrap on the frontend.
 
 </details>
-
 
 
 
