@@ -16,7 +16,7 @@
 </div>
 
 <!-- User status -->
-<h4 align="center"> 📁 To know more about me check out <a href="https://aleixmt.github.io" target="blank"> my portfolio!</a></h4>								
+<h2 align="center"> 📁 Check out <a href="https://aleixmt.github.io" target="blank"> my portfolio!</a></h2>								
 <!-- <h6 align="center">⚡ Fun fact Hackerman from Kung Fury is the mastermind of Elliot Alderson from Mr. Robot </h6> -->
 
 <!-- Social media -->
@@ -83,6 +83,8 @@ May 2019 - Present
 September 2021 - Present
 * Web platform to manage the life-cycle of data from experimental chemistry at [ICIQ](https://www.iciq.org/).
 * Currently allows the import of data from [Perkin-Elmer Signals notebook](https://www.perkinelmer.com/libraries/sht_perkinelmer-signals-notebook-013433_01) and the export of this data into the [Dataverse](https://dataverse.org/) of [CORA RDR](https://dataverse.csuc.cat/).
+* Check out [the documentation](https://iciq-dmp.github.io/) to get started. 
+
 
 <p align="center"> 
 	Used technologies: <br>
