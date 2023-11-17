@@ -52,6 +52,7 @@
 <details>
 <summary><h3 align="center">💼 My projects:</h3></summary>
 
+<br>
 <details>
 <summary><h4 align="center"><a href="https://github.com/AleixMT/Linux-Auto-Customizer"> Linux-Auto-Customizer </a>:</h4></summary> 
 
@@ -74,7 +75,7 @@ May 2019 - Present
 </details>
 
 
-
+<br>
 <details>
 <summary><h4 align="center"><a href="https://github.com/ICIQ-DMP/eChempad-public-mirror"> eChempad </a>:</h4></summary> 
 
