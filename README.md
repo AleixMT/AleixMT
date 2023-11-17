@@ -16,8 +16,8 @@
 </div>
 
 <!-- User status -->
-<h6 align="center"> 👨‍💻 You can know more about me in <a href="https://aleixmt.github.io" target="blank"> my portfolio </a></h6>									
-<h6 align="center">⚡ Fun fact Hackerman from Kung Fury is the mastermind of Elliot Alderson from Mr. Robot </h6>
+<h4 align="center"> 📁 To know more about me check out <a href="https://aleixmt.github.io" target="blank"> my portfolio!</a></h4>								
+<!-- <h6 align="center">⚡ Fun fact Hackerman from Kung Fury is the mastermind of Elliot Alderson from Mr. Robot </h6> -->
 
 <!-- Social media -->
 <h3 align="center">Connect with me:</h3>
