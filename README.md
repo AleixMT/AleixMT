@@ -79,7 +79,7 @@
 <p align="center"> 
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 	<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM" alt="flask" width="40" height="40"/> </a> 
 	<a href="https://www.zkoss.org" target="_blank" rel="noreferrer"> <img src="https://www.zkoss.org/resource/img/support/press_zklogo1.png" alt="flask" width="40" height="40"/> </a> 
 </p> 
 
@@ -122,7 +122,7 @@
 	<a href="https://github.com/AleixMT/Linux-Auto-Customizer" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/AleixMT/Linux-Auto-Customizer/master/.github/logo.png" alt="Linux Auto Customizer" width="40" height="40"/> </a> 
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1024px-Apache_Maven_logo.svg.png" alt="Apache Maven" width="40" height="40"/> </a> 
+	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+maven-1324451386617447973.png" alt="Apache Maven" width="40" height="40"/> </a> 
 	<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
 </p> 
 
@@ -184,9 +184,8 @@
 </p> 
 
 <h5 align="center">Tools:</h5>
-	<a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="gradle" width="40" height="40"/> </a> 
 <p align="center"> 
-
+	<a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="gradle" width="40" height="40"/> </a> 
 </p> 
 
 <h5 align="center">Cloud & serverless:</h5>
