@@ -48,7 +48,7 @@
 
 
 
-<!-- Technical skills -->
+<!-- My projects -->
 <details>
 <summary><h3 align="center">💼 My projects:</h3></summary>
 
@@ -66,8 +66,9 @@ May 2019 - Present
 * [Check out how to start using it](https://github.com/AleixMT/Linux-Auto-Customizer/wiki/Getting-started) or [check the installations that are already implemented](https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md).
 
 <p align="center"> 
-	<h5 align="center"> <br> Used technologies: <br> </h5>
+	<h5 align="center"> <br> Used technologies: <br> 
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="40" height="40"/> </a> 
+	</h5>
 </p>
 
 </details>
@@ -88,7 +89,7 @@ September 2021 - Present
 
 
 <p align="center"> 
-	<h5 align="center"> <br> Used technologies: <br> </h5>
+	<h5 align="center"> <br> Used technologies: <br> 
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 	<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
@@ -108,6 +109,7 @@ September 2021 - Present
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 	<a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg" alt="GitHub Actions" width="40" height="40"/> </a>
 	<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="40" height="40"/> </a> 
+	</h5>	
 </p>
 
 </details>
