@@ -17,7 +17,7 @@
 
 <!-- User status -->
 <br>
-<h1 align="center"> 📁 Check out <a href="https://aleixmt.github.io" target="blank"> my portfolio</a>! (WIP)</h1>	
+<h3 align="center"> 📁 Check out <a href="https://aleixmt.github.io" target="blank"> my portfolio</a>! (WIP)</h3>	
 <br>
 
 <!-- Social media -->
