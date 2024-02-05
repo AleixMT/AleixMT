@@ -54,17 +54,21 @@
 
 <br>
 <details>
-<summary><h4 align="center"><a href="https://github.com/AleixMT/Linux-Auto-Customizer"> Linux-Auto-Customizer </a>:</h4></summary> 
+<summary><h4 align="center">Linux-Auto-Customizer:</h4></summary> 
 
 <p align="center">
-<img src="https://media.githubusercontent.com/media/AleixMT/Linux-Auto-Customizer/master/.github/logo.png" width="250" height="290"/>
+<img src="https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/.github/logo.png" width="250" height="290"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Gua-tk/Linux-Auto-Customizer">Official repo</a>
 </p>
 
 <i> May 2019 - Present </i>
 * Utility to automate installations and customizations to your Linux client machine. 
 * Contains almost 300 precoded installations and customizations that you can use out-of-the-box.
 * Certain compatibility with Windows.
-* [Check out how to start using it](https://github.com/AleixMT/Linux-Auto-Customizer/wiki/Getting-started) or [check the installations that are already implemented](https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md).
+* [Check out how to start using it](https://github.com/Gua-tk/Linux-Auto-Customizer/wiki/Getting-started) or [check the installations that are already implemented](https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md).
 
 <p align="center"> 
 	<h5 align="center"> <br> Used technologies: <br> 
@@ -77,10 +81,14 @@
 
 <br>
 <details>
-<summary><h4 align="center"><a href="https://github.com/ICIQ-DMP/eChempad-public-mirror"> eChempad </a>:</h4></summary> 
+<summary><h4 align="center">eChempad:</h4></summary> 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ICIQ-DMP/eChempad-public-mirror/a8b8b3750bbc5eea9cc1b2a24ede46deb90bb72d/src/main/resources/static/img/create-small-white.png" width="133" height="34"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/ICIQ-DMP/eChempad-public-mirror">Official repo</a>
 </p>
 
 <i> September 2021 - Present </i>
@@ -102,11 +110,11 @@
 	<a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png" alt="MarkDown" width="40" height="40"/> </a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-	<a href="https://github.com/AleixMT/Linux-Auto-Customizer" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/AleixMT/Linux-Auto-Customizer/master/.github/logo.png" alt="Linux Auto Customizer" width="40" height="40"/> </a> 
+	<a href="https://github.com/Gua-tk/Linux-Auto-Customizer" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/Gua-tk/Linux-Auto-Customizer/master/.github/logo.png" alt="Linux Auto Customizer" width="40" height="40"/> </a> 
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 	<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
-	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+maven-1324451386617447973.png" alt="Apache Maven" width="40" height="40"/> </a> 
+	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP9OKIrIvTMtlstXkQREBGpAuRSfh-PNTbBfWUlqwp2w" alt="Apache Maven" width="40" height="40"/> </a> 
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 	<a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg" alt="GitHub Actions" width="40" height="40"/> </a>
 	<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="40" height="40"/> </a> 
