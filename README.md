@@ -50,11 +50,19 @@
 
 <!-- My projects -->
 <details>
-<summary><h3 align="center">💼 My projects:</h3></summary>
+<summary>
+	<h3 align="center">💼 My projects:</h3>
+</summary>
+</details>
+
 
 <br>
 <details>
-<summary><h4 align="center">Linux-Auto-Customizer:</h4></summary> 
+<summary>
+	<h4 align="center">Linux-Auto-Customizer:</h4>
+</summary> 
+</details>
+
 
 <p align="center">
 <img src="https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/.github/logo.png" width="250" height="290"/>
@@ -129,7 +137,9 @@
 
 <!-- Technical skills -->
 <details>
-<summary><h3 align="center">👩🏾‍💻 Technology stacks:</h3></summary>
+<summary>
+	<h3 align="center">👩🏾‍💻 Technology stacks:</h3>
+</summary>
 
 
 <details>
