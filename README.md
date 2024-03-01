@@ -49,11 +49,9 @@
 
 
 <!-- My projects -->
-<details>
-<summary>
+<details><summary>
 	<h3 align="center">💼 My projects:</h3>
 </summary>
-</details>
 
 
 <br>
@@ -61,7 +59,6 @@
 <summary>
 	<h4 align="center">Linux-Auto-Customizer:</h4>
 </summary> 
-</details>
 
 
 <p align="center">
@@ -84,7 +81,6 @@
 	</h5>
 </p>
 
-</details>
 
 
 <br>
