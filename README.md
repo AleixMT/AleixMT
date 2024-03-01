@@ -49,9 +49,10 @@
 
 
 <!-- My projects -->
-<details><summary>
+<details>
+	<summary>
 	<h3 align="center">💼 My projects:</h3>
-</summary>
+	</summary>
 
 
 <br>
@@ -80,7 +81,7 @@
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="40" height="40"/> </a> 
 	</h5>
 </p>
-
+</details>
 
 
 <br>
