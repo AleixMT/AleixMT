@@ -49,10 +49,7 @@
 
 
 <!-- My projects -->
-<details>
-	<summary>
-	<h3 align="center">💼 My projects:</h3>
-	</summary>
+<details><summary> <h3 align="center">💼 My projects:</h3> </summary>
 
 
 <br>
