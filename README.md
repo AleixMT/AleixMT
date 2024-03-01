@@ -53,29 +53,22 @@
 	<summary>
 		<h3 align="center">💼 My projects:</h3> 
 	</summary>
-
-
 	<br>
 	<details>
 		<summary>
 			<h4 align="center">Linux-Auto-Customizer:</h4>
 		</summary> 
-
-
 		<p align="center">
 		<img src="https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/.github/logo.png" width="250" height="290"/>
 		</p>
-		
 		<p align="center">
 		<a href="https://github.com/Gua-tk/Linux-Auto-Customizer">Official repo</a>
 		</p>
-		
 		<i> May 2019 - Present </i>
 		* Utility to automate installations and customizations to your Linux client machine. 
 		* Contains almost 300 precoded installations and customizations that you can use out-of-the-box.
 		* Certain compatibility with Windows.
 		* [Check out how to start using it](https://github.com/Gua-tk/Linux-Auto-Customizer/wiki/Getting-started) or [check the installations that are already implemented](https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md).
-		
 		<p align="center"> 
 			<h5 align="center"> <br> Used technologies: <br> 
 			<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="40" height="40"/> </a> 
