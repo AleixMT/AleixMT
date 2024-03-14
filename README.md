@@ -43,6 +43,21 @@ If you want to copy me that is a good place to start-->
     </p>
 
 
+<!-- Support and donations -->
+<h3 align="center">Support:</h3>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/VidWise"> 
+        <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Donate with buy me a coffee" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://donate.stripe.com/28o15be6H8xlgyQ000"> 
+        <img align="center" src="https://www.silicon.es/wp-content/uploads/2022/06/companylogo_bf4b0be5.png" height="140" width="250" alt="Donate with Stripe" />
+    </a>
+</p>
+<br><br>
+
+
 <!-- My projects -->
 <details>
 	<summary>
@@ -278,26 +293,12 @@ If you want to copy me that is a good place to start-->
 </details>
 
 
-<!-- Support and donations -->
-<h3 align="center">Support:</h3>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/VidWise"> 
-        <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Donate with buy me a coffee" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://donate.stripe.com/28o15be6H8xlgyQ000"> 
-        <img align="center" src="https://www.silicon.es/wp-content/uploads/2022/06/companylogo_bf4b0be5.png" height="140" width="250" alt="Donate with Stripe" />
-    </a>
-</p>
-<br><br>
-
-
 <!-- Automatic blog post retrieval (github action) -->
 ### 📋 Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Display donut in the terminal](https://dev.to/aleixmt/display-donut-in-the-terminal-1c3f)
 <!-- BLOG-POST-LIST:END -->
+
 
 <!-- References -->
 [customizer-repo]: http://github.com/Gua-tk/Linux-Auto-Customizer  "Official Linux-Auto-Customizer repository in GitHub"
