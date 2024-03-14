@@ -34,7 +34,7 @@ If you want to copy me that is a good place to start-->
 <!-- Social media -->
 <h3 align="center">Connect with me:</h3>
     <p align="center">
-        <a href="https://www.linkedin.com/in/aleix-mariné-tena-083672122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleix-mariné-083672122" height="40" width="40" /></a>
+        <a href="https://www.linkedin.com/in/aleix-mariné-tena-083672122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aleix Mariné-Tena LinkedIn" height="40" width="40" /></a>
         <a href="mailto:aleix.marine.tena@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="mail aleix.marine.tena@gmail.com" height="40" width="40" /></a>
         <a href="https://stackoverflow.com/users/7733017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7733017" height="40" width="40" /></a>
         <a href="https://discord.gg/1103985156227874816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1103985156227874816" height="40" width="40" /></a>
@@ -138,7 +138,8 @@ If you want to copy me that is a good place to start-->
     <details>
     <summary>
         🤓 Technologies that I know:
-    </summary> 
+    </summary>
+    <br>
     All categories by descending order of knowledge:
     <h5 align="center">Programming languages:</h5>
     <p align="center"> 
@@ -194,7 +195,7 @@ If you want to copy me that is a good place to start-->
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src=".github/img/nginx.svg" alt="nginx" width="60" height="60"/> </a> 
         <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src=".github/img/github-actions.svg" alt="GitHub Actions" width="60" height="60"/> </a>
         <a href="https://openvpn.net/" target="_blank" rel="noreferrer"> <img src=".github/img/openvpn.png" alt="Open VPN" width="60" height="60"/> </a>
-        <a href="https://thekelleys.org.uk/dnsmasq/doc.html" target="_blank" rel="noreferrer"> <img src=".github/img/dnsmasq.png" alt="DNS masq" width="60" height="60"/> </a>
+        <a href="https://thekelleys.org.uk/dnsmasq/doc.html" target="_blank" rel="noreferrer"> <img src=".github/img/dnsmasq.png" alt="DNS-masq" width="60" height="60"/> </a>
         <a href="https://www.samba.org/" target="_blank" rel="noreferrer"> <img src=".github/img/samba.png" alt="Samba" width="60" height="60"/> </a>
     </p>
     <h5 align="center">Tools:</h5>
@@ -216,7 +217,8 @@ If you want to copy me that is a good place to start-->
     <details>
     <summary>
         🤔 Technologies that I have worked with:
-        </summary> 
+        </summary>
+        <br>
         All categories by descending order of knowledge:
         <h5 align="center">Programming languages:</h5>
         <p align="center"> 
@@ -284,7 +286,7 @@ If you want to copy me that is a good place to start-->
     <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleixmt&show_icons=true&locale=en&layout=pie&langs_count=10&hide=roff,coq,freemarker" alt="aleixmt" />
     </p>
-    <!-- Github stats -->
+    <!-- GitHub stats -->
     <p align="center">&nbsp;
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleixmt&show_icons=true&locale=en&rank_icon=percentile" alt="aleixmt" />
     </p>
