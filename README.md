@@ -1,3 +1,12 @@
+<style>
+  .center {
+    text-align: center; /* For inline or inline-block elements */
+    /* or */
+    margin: 0 auto; /* For block-level elements with a defined width */
+    /* Additional styling as needed */
+  }
+</style>
+
 <!-- Title -->
 <h3 align="center">A scientist & engineer working as full-stack developer & data steward</h3>
 
@@ -6,10 +15,10 @@
     <table>
 	    <tr>
     	    <td style="padding:10px">
-                <img src="https://github.com/AleixMT/AleixMT/assets/23342150/a802e799-cfcf-4add-ae22-0aa96bbecb6c"/>
+                <img src="https://github.com/AleixMT/AleixMT/assets/23342150/a802e799-cfcf-4add-ae22-0aa96bbecb6c" alt="Elliot Anderson (Mr Robot) looking at the profile visits counter and smiling"/>
       	    </td>
             <td style="padding:10px">
-                <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat"/>
+                <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visits counter"/>
             </td>
         </tr>
     </table>
