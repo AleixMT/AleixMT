@@ -1,20 +1,18 @@
-<head>
+
+
 <style>
   .center {
-    text-align: center; /* For inline or inline-block elements */
-    /* or */
-    margin: 0 auto; /* For block-level elements with a defined width */
-    /* Additional styling as needed */
+    text-align: center;
+    margin: 0 auto;
   }
 </style>
-</head>
 
 
 <!-- Title -->
 <h3 align="center">A scientist & engineer working as full-stack developer & data steward</h3>
 
 <!-- Eliot Alderson + profile visits counter -->
-<div id="image-table" class="center">
+<div id="image-table" align="center">
     <table>
 	    <tr>
     	    <td style="padding:10px">
