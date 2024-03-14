@@ -1,3 +1,4 @@
+<head>
 <style>
   .center {
     text-align: center; /* For inline or inline-block elements */
@@ -6,6 +7,8 @@
     /* Additional styling as needed */
   }
 </style>
+</head>
+
 
 <!-- Title -->
 <h3 align="center">A scientist & engineer working as full-stack developer & data steward</h3>
