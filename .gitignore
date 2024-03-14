@@ -25,3 +25,4 @@ node_modules/
 
 .idea/*
 !.idea/dictionaries
+!.idea/dictionary

@@ -1,4 +1,4 @@
-<!-- align="center" works in markdown, even if it is deprecated in HTML, so suppres warning -->
+<!-- align="center" works in markdown, even if it is deprecated in HTML, so suppress warning -->
 <!--suppress HtmlDeprecatedAttribute -->
 
 <!-- Remember that blank lines when working with markdown / HTML are used in parsing -->
@@ -77,7 +77,7 @@ If you want to copy me that is a good place to start-->
 		</p>
 		<i> May 2019 - Present </i>
 		* Utility to automate installations and customizations to your Linux client machine. 
-		* Contains almost 300 precoded installations and customizations that you can use out-of-the-box.
+		* Contains almost 300 pre-coded installations and customizations that you can use out-of-the-box.
 		* Certain compatibility with Windows.
 		* [Check out how to start using it](https://github.com/Gua-tk/Linux-Auto-Customizer/wiki/Getting-started) or [check the installations that are already implemented](https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md).
 		<p align="center"> 
@@ -297,7 +297,7 @@ If you want to copy me that is a good place to start-->
 </details>
 
 
-<!-- Automatic blog post retrieval (github action) -->
+<!-- Automatic blog post retrieval (GitHub action) -->
 ### 📋 Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Display donut in the terminal](https://dev.to/aleixmt/display-donut-in-the-terminal-1c3f)
