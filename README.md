@@ -14,7 +14,7 @@
 <h3 align="center">A scientist & engineer working as full-stack developer & data steward</h3>
 
 <!-- Eliot Alderson + profile visits counter -->
-<div id="image-table" align="center">
+<div id="image-table" class="center">
     <table>
 	    <tr>
     	    <td style="padding:10px">
