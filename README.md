@@ -1,12 +1,5 @@
-
-
-<style>
-  .center {
-    text-align: center;
-    margin: 0 auto;
-  }
-</style>
-
+<!--suppress HtmlDeprecatedAttribute -->
+<!-- align="center" works in markdown, even if it is deprecated in HTML -->
 
 <!-- Title -->
 <h3 align="center">A scientist & engineer working as full-stack developer & data steward</h3>
