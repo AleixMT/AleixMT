@@ -1,6 +1,7 @@
+<!-- align="center" works in markdown, even if it is deprecated in HTML, so suppres warning -->
 <!--suppress HtmlDeprecatedAttribute -->
-<!-- align="center" works in markdown, even if it is deprecated in HTML -->
-<!-- Remember that blank lines when working with markdown / HTML are used for parsing and are serious business! -->
+
+<!-- Remember that blank lines when working with markdown / HTML are used in parsing -->
 <!-- This file was partly generated with this tool https://rahuldkjain.github.io/gh-profile-readme-generator/
 If you want to copy me that is a good place to start-->
 
@@ -141,12 +142,12 @@ If you want to copy me that is a good place to start-->
     All categories by descending order of knowledge:
     <h5 align="center">Programming languages:</h5>
     <p align="center"> 
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="40" height="40"/> </a> 
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-        <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="assembly" width="40" height="40"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=".github/img/java.svg" alt="java" width="40" height="40"/> </a> 
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src=".github/img/c.svg" alt="c" width="40" height="40"/> </a> 
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=".github/img/bash.png" alt="bash" width="40" height="40"/> </a> 
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=".github/img/python.svg" alt="python" width="40" height="40"/> </a> 
+        <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="40" height="40"/></a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src=".github/img/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
         <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/harwen/pleasant/256/MS-DOS-Batch-File-icon.png" alt="assembly" width="40" height="40"/> </a> 
     </p>
     <h5 align="center">Markup languages:</h5>
