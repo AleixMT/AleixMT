@@ -1,13 +1,15 @@
 <!-- align="center" works in markdown, even if it is deprecated in HTML, so suppress warning -->
 <!--suppress HtmlDeprecatedAttribute -->
 
-<!-- Remember that blank lines when working with markdown / HTML are used in parsing -->
+<!-- Remember that blank lines and indentation when working with markdown / HTML are used in parsing -->
 <!-- This file was partly generated with this tool https://rahuldkjain.github.io/gh-profile-readme-generator/
 If you want to copy me that is a good place to start-->
 
 
+
 <!-- Title -->
 <h3 align="center">A scientist & engineer working as full-stack developer & data steward</h3>
+
 
 
 <!-- Eliot Alderson + profile visits counter -->
@@ -25,10 +27,12 @@ If you want to copy me that is a good place to start-->
 </div>
 
 
+
 <!-- User status -->
 <br>
 <h3 align="center"> 📁 Check out <a href="https://aleixmt.github.io" target="blank"> my portfolio</a>! (WIP)</h3>	
 <br>
+
 
 
 <!-- Social media -->
@@ -42,6 +46,7 @@ If you want to copy me that is a good place to start-->
         <a href="https://codesandbox.com/aleix_mt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aleix_mt" height="40" width="40" /></a>
         <a href="https://www.leetcode.com/aleixmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aleixmt" height="40" width="40" /></a>
     </p>
+
 
 
 <!-- Support and donations -->
@@ -59,6 +64,7 @@ If you want to copy me that is a good place to start-->
 <br><br>
 
 
+
 <!-- My projects -->
 <details>
 	<summary>
@@ -67,66 +73,132 @@ If you want to copy me that is a good place to start-->
 	<br>
 	<details>
 		<summary>
-			Linux-Auto-Customizer
+			Linux Auto Customizer
 		</summary> 
 		<p align="center">
-		  <img src="https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/.github/logo.png" width="250" height="290"/>
+		  <img src=".github/img/customizer.png" alt="Linux Auto Customizer logo" width="250" height="290"/>
 		</p>
 		<p align="center">
 		  <a href="https://github.com/Gua-tk/Linux-Auto-Customizer">Official repo</a>
 		</p>
 		<i> May 2019 - Present </i>
-		* Utility to automate installations and customizations to your Linux client machine. 
-		* Contains almost 300 pre-coded installations and customizations that you can use out-of-the-box.
-		* Certain compatibility with Windows.
-		* [Check out how to start using it](https://github.com/Gua-tk/Linux-Auto-Customizer/wiki/Getting-started) or [check the installations that are already implemented](https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md).
+        <ul>
+            <li>Utility to automate, manage and maintain installations and customizations across all you Linux machines.</li>
+            <li>Contains almost 300 pre-coded installations and customizations that you can use <i>out-of-the-box.</i></li>
+            <li>Compatibility with Windows through <a href="https://learn.microsoft.com/en-us/windows/wsl/install">WSL2</a> and <a href="https://git-scm.com/downloads">git bash</a>.</li>
+            <li>Compatibility with Android through <a href="https://f-droid.org/en/packages/com.termux/">Termux.</a></li>
+            <li><a href="https://github.com/Gua-tk/Linux-Auto-Customizer/wiki/Getting-started">Check out how to start using it</a> or <a href="https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md">check the installations that are already implemented</a>.</li>
+        </ul>
 		<p align="center"> 
-			<h5 align="center"> <br> Used technologies: <br> 
-			<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="60" height="60"/> </a> 
+			<h5 align="center"> 
+                <br> 
+                Used technologies:
+                <br> 
+                <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=".github/img/bash.png" alt="bash" width="60" height="60"/> </a> 
+                <a href="https://www.freedesktop.org/wiki/" target="_blank" rel="noreferrer"><img src=".github/img/freedesktop.svg" alt="freedesktop.org" width="60" height="60"/></a>
 			</h5>
 		</p>
 	</details>
     <details>
     <summary>
-        <a href="github.com/ICIQ-DMP/eChempad">eChempad</a>
+        eChempad
     </summary>
     <p align="center">
-    <img src="https://raw.githubusercontent.com/ICIQ-DMP/eChempad-public-mirror/a8b8b3750bbc5eea9cc1b2a24ede46deb90bb72d/src/main/resources/static/img/create-small-white.png" width="133" height="34"/>
+        <img src=".github/img/eChempad.png" alt="eChempad logo" width="133" height="34"/>
     </p>
     <p align="center">
     <a href="https://github.com/ICIQ-DMP/eChempad-public-mirror">Official repo</a>
     </p>
     <i> September 2021 - Present </i>
-    * Web platform to manage the life-cycle of data from experimental chemistry at [ICIQ](https://www.iciq.org/).
-    * Currently allows the import of data from [Perkin-Elmer Signals notebook](https://www.perkinelmer.com/libraries/sht_perkinelmer-signals-notebook-013433_01) and the export of this data into the [Dataverse](https://dataverse.org/) of [CORA RDR](https://dataverse.csuc.cat/).
-    * Check out [the documentation](https://iciq-dmp.github.io/) to get started.
+    <ul>
+        <li>Web platform to manage the life-cycle of data from experimental chemistry at <a href="https://www.iciq.org/"><i>Institut Català d'Investigació Química</i> (ICIQ)</a>.</li>
+        <li>Currently allows the import of data from <a href="https://www.perkinelmer.com/libraries/sht_perkinelmer-signals-notebook-013433_01">Perkin-Elmer Signals notebook</a> and the export of this data into the <a href="https://dataverse.org/">Dataverse</a> of <a href="https://dataverse.csuc.cat/">CORA RDR</a>.</li>
+        <li>Check out <a href="https://iciq-dmp.github.io/">the documentation</a> to get started.</li>
+    </ul>
     <p align="center"> 
         <h5 align="center"> <br> Used technologies: <br> 
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a> 
-        <a href="https://www.zkoss.org" target="_blank" rel="noreferrer"> <img src="https://www.zkoss.org/resource/img/support/press_zklogo1.png" alt="flask" width="60" height="60"/> </a> 
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="60" height="60"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
-        <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="60" height="60"/> </a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=".github/img/java.svg" alt="java" width="60" height="60"/> </a> 
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src=".github/img/bootstrap.svg" alt="bootstrap" width="60" height="60"/> </a> 
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src=".github/img/spring.svg" alt="spring" width="60" height="60"/> </a> 
+        <a href="https://www.zkoss.org" target="_blank" rel="noreferrer"> <img src=".github/img/zk.png" alt="flask" width="60" height="60"/> </a> 
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src=".github/img/postgresql.svg" alt="postgresql" width="60" height="60"/> </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=".github/img/bash.png" alt="bash" width="60" height="60"/> </a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src=".github/img/javascript.svg" alt="javascript" width="60" height="60"/> </a> 
+        <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src=".github/img/JSON.svg" alt="JSON" width="60" height="60"/> </a>
+        <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src=".github/img/markdown.png" alt="MarkDown" width="60" height="60"/> </a>
+        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src=".github/img/csharp.svg" alt="csharp" width="60" height="60"/> </a> 
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=".github/img/html.svg" alt="html5" width="60" height="60"/> </a>
+        <a href="https://github.com/AleixMT/Linux-Auto-Customizer" target="_blank" rel="noreferrer"> <img src=".github/img/customizer.png" alt="Linux Auto Customizer" width="60" height="60"/> </a> 
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
+        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src=".github/img/postman.svg" alt="postman" width="60" height="60"/> </a> 
+        <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src=".github/img/jekyll.svg" alt="jekyll" width="60" height="60"/> </a>
+        <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src=".github/img/maven.svg" alt="Apache Maven" width="60" height="60"/> </a> 
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
+        <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src=".github/img/github-actions.svg" alt="GitHub Actions" width="60" height="60"/> </a>
+        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a> 
+        </h5>	
+    </p>
+    </details>
+    <details>
+    <summary>
+        Problemas Computadores
+    </summary>
+    <p align="center">
+        <img src=".github/img/Problemas-Computadores.jpg" alt="Logo repository Problemas de Computadores" width="250" height="235"/>
+    </p>
+    <p align="center">
+    <a href="https://github.com/vidwise/Problemas-Computadores">Official repo</a>
+    </p>
+    <i> January 2022 - Present </i>
+    <ul>
+        <li>Repository for the solutions of the problems from the subject <i>Computers</i> of the degree of <i>Computer Science</i> from the <a href="https://www.urv.cat/"><i>Universitat Rovira i Virgili</i> (URV)</a>.</li>
+        <li>These problems are exercises of programming in the C language and assembly ARM in which one or more peripheral devices need to be synced with the CPUs of the Nintendo DS using interruptions or other synchronization mechanisms.</li>
+        <li>This project was developed originally for my freelance teaching lessons in this subject, but it ended up as a collaboration with the teachers <a href="https://github.com/AreyFerreroRamos">@AreyFerreroRamos</a> and <a href="https://github.com/annaju128">@annaju128</a> and with some students that contributed with their solutions.</li>
+        <li>Currently, at 14/03/2024, we have 39 problems, which 15 have been fully solved by the subject's teacher and 10 have been solved by us with different levels of completion.</li>
+    </ul>
+    <p align="center"> 
+        <h5 align="center"> <br> Used technologies: <br>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src=".github/img/c.svg" alt="c" width="60" height="60"/> </a>
+        <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="60" height="60"/></a>
+        <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> <img src=".github/img/nds.png" alt="nintendo ds" width="60" height="60"/> </a>
         <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png" alt="MarkDown" width="60" height="60"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-        <a href="https://github.com/Gua-tk/Linux-Auto-Customizer" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/Gua-tk/Linux-Auto-Customizer/master/.github/logo.png" alt="Linux Auto Customizer" width="60" height="60"/> </a> 
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> 
-        <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="60" height="60"/> </a> 
-        <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP9OKIrIvTMtlstXkQREBGpAuRSfh-PNTbBfWUlqwp2w" alt="Apache Maven" width="60" height="60"/> </a> 
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> 
-        <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg" alt="GitHub Actions" width="60" height="60"/> </a>
-        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="60" height="60"/> </a> 
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
+        </h5>	
+    </p>
+    </details>
+    <details>
+    <summary>
+        GarlicOS
+    </summary>
+    <p align="center">
+        <img src=".github/img/GarlicOS.png" alt="Image with demo of GarlicOS in action" width="398" height="666"/>
+    </p>
+    <p align="center">
+    <a href="https://github.com/URV-BioGEI/GarlicOS">Official repo</a>
+    </p>
+    <i> August 2017 - January 2018 </i>
+    <ul>
+        <li>Functional operating system for Nintendo DS developed as exercise for the subject <i>Operating Systems Structure</i> from the degree of <i>Computer Science</i> of <a href="https://www.urv.cat/"><i>Universitat Rovira i Virgili</i> (URV)</a>.</li>
+        <li>Developed using the C programming language and ARM assembly.</li>
+        <li>The system can execute binary programs and offers an API of functions to access different hardware and system resources from the programs such as memory management, virtual keyboard, graphical window navigation and process multiplexing.</li>
+        <li>First phase of development is completed in the branch <i>fase1</i> with the parts of all programmers (processes, graphics, memory and keyboard).</li>
+        <li>Second phase of development is in the branch <i>fase2</i> with the parts of programmers of processes, graphics and keyboard.</li>
+        <li>I am looking for help to merge the part of the memory programmer into phase 2 to end the project.</li>
+    </ul>
+    <p align="center"> 
+        <h5 align="center"> <br> Used technologies: <br>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src=".github/img/c.svg" alt="c" width="60" height="60"/> </a>
+        <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="60" height="60"/></a>
+        <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> <img src=".github/img/nds.png" alt="nintendo ds" width="60" height="60"/> </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
         </h5>	
     </p>
     </details>
 <br>
 <br>
 </details>
+
 
 
 <!-- Technical skills -->
@@ -197,6 +269,8 @@ If you want to copy me that is a good place to start-->
         <a href="https://openvpn.net/" target="_blank" rel="noreferrer"> <img src=".github/img/openvpn.png" alt="Open VPN" width="60" height="60"/> </a>
         <a href="https://thekelleys.org.uk/dnsmasq/doc.html" target="_blank" rel="noreferrer"> <img src=".github/img/dnsmasq.png" alt="DNS-masq" width="60" height="60"/> </a>
         <a href="https://www.samba.org/" target="_blank" rel="noreferrer"> <img src=".github/img/samba.png" alt="Samba" width="60" height="60"/> </a>
+        <a href="https://railway.app/" target="_blank" rel="noreferrer"> <img src=".github/img/railway.svg" alt="Railway" width="60" height="60"/> </a>
+        <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src=".github/img/vercel.svg" alt="Railway" width="60" height="60"/> </a>
     </p>
     <h5 align="center">Tools:</h5>
     <p align="center"> 
@@ -274,6 +348,7 @@ If you want to copy me that is a good place to start-->
 </details>
 
 
+
 <details>
     <summary>
         📈 Profile stats:
@@ -295,6 +370,7 @@ If you want to copy me that is a good place to start-->
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleixmt&" alt="aleixmt" />
     </p>
 </details>
+
 
 
 <!-- Automatic blog post retrieval (GitHub action) -->
