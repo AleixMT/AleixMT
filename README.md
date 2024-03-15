@@ -4,7 +4,7 @@
 <!-- Remember that blank lines and indentation when working with markdown / HTML are used in parsing -->
 <!-- This file was partly generated with this tool https://rahuldkjain.github.io/gh-profile-readme-generator/
 If you want to copy me that is a good place to start-->
-
+<!-- For the publication badges I used this https://zenodo.org/badge/DOI/10.1073/pnas.2303887120.svg -->
 
 
 <!-- Title -->
@@ -17,7 +17,7 @@ If you want to copy me that is a good place to start-->
     <table>
 	    <tr>
     	    <td style="padding:10px">
-                <img src="https://github.com/AleixMT/AleixMT/assets/23342150/a802e799-cfcf-4add-ae22-0aa96bbecb6c" alt="Elliot Anderson (Mr Robot) looking at the profile visits counter and smiling"/>
+                <img src=".github/img/elliot.gif" alt="Elliot Anderson (Mr Robot) looking at the profile visits counter and smiling"/>
       	    </td>
             <td style="padding:10px">
                 <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visits counter"/>
@@ -45,6 +45,7 @@ If you want to copy me that is a good place to start-->
         <a href="https://dev.to/aleixmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="40" width="40" /></a>
         <a href="https://codesandbox.com/aleix_mt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aleix_mt" height="40" width="40" /></a>
         <a href="https://www.leetcode.com/aleixmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aleixmt" height="40" width="40" /></a>
+        <a href="https://orcid.org/0000-0001-9273-1203" target="blank"><img align="center" src=".github/img/orcid.svg" alt="aleixMT ORCID file" height="40" width="40" /></a>
     </p>
 
 
@@ -195,7 +196,6 @@ If you want to copy me that is a good place to start-->
         </h5>	
     </p>
     </details>
-<br>
 <br>
 </details>
 
@@ -369,6 +369,37 @@ If you want to copy me that is a good place to start-->
     <p align="center">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleixmt&" alt="aleixmt" />
     </p>
+</details>
+
+
+
+<!-- Publications -->
+<details>
+    <summary>
+        📚 Publications:
+    </summary>
+    <br>
+    <details>
+        <summary>
+            Hyperedge prediction and the statistical mechanisms of higher-order and lower-order interactions in complex networks
+        </summary>
+        <br>
+        <i>Sales-Pardo, M., Mariné-Tena, A., & Guimerà, R.</i> (2023). <b>Hyperedge prediction and the statistical mechanisms of higher-order and lower-order interactions in complex networks</b>. In Proceedings of the National Academy of Sciences (Vol. 120, Issue 50). Proceedings of the National Academy of Sciences.
+        <br>
+        <a href="https://doi.org/10.1073/pnas.2303887120"><img src=".github/img/publication-pnas.2303887120.svg" alt="Badge for the Trigenic Interaction Predictor publication"></a>
+    </details>
+    <br>
+    <details>
+        <summary>
+            e-PEMICU: an e-Health Platform to Support Early Mobilisation in Intensive Care Units
+        </summary>
+        <br>
+        <i>Martinez-Balleste, A., Gimeno, P., Marine, A., Batista, E., & Solanas, A.</i> (2019). <b>e-PEMICU: an e-Health Platform to Support Early Mobilisation in Intensive Care Units</b>. En 2019 10th International Conference on Information, Intelligence, Systems and Applications (IISA). 2019 10th International Conference on Information, Intelligence, Systems and Applications (IISA). IEEE.
+        <br>
+        <a href="https://doi.org/10.1109/iisa.2019.8900718"><img src=".github/img/publication-iisa.2019.8900718.svg" alt="Badge for the e-PEMICU"></a>
+        <br>
+        <a href="http://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/publications/Publication_e-PEMICU.pdf"><i><b>⬇️ Download full text</b></i></a>
+    </details>
 </details>
 
 
