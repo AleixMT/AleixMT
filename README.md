@@ -90,15 +90,13 @@ If you want to copy me that is a good place to start-->
             <li>Compatibility with Android through <a href="https://f-droid.org/en/packages/com.termux/">Termux.</a></li>
             <li><a href="https://github.com/Gua-tk/Linux-Auto-Customizer/wiki/Getting-started">Check out how to start using it</a> or <a href="https://github.com/Gua-tk/Linux-Auto-Customizer/blob/master/doc/FEATURES.md">check the installations that are already implemented</a>.</li>
         </ul>
-		<p align="center"> 
-			<h5 align="center"> 
-                <br> 
-                Used technologies:
-                <br> 
-                <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=".github/img/bash.png" alt="bash" width="60" height="60"/> </a> 
-                <a href="https://www.freedesktop.org/wiki/" target="_blank" rel="noreferrer"><img src=".github/img/freedesktop.svg" alt="freedesktop.org" width="60" height="60"/></a>
-			</h5>
-		</p>
+        <h5 align="center"> 
+            <br> 
+            Used technologies:
+            <br> 
+            <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=".github/img/bash.png" alt="bash" width="60" height="60"/> </a> 
+            <a href="https://www.freedesktop.org/wiki/" target="_blank" rel="noreferrer"><img src=".github/img/freedesktop.svg" alt="freedesktop.org" width="60" height="60"/></a>
+        </h5>
 	</details>
     <details>
     <summary>
@@ -113,32 +111,30 @@ If you want to copy me that is a good place to start-->
     <i> September 2021 - Present </i>
     <ul>
         <li>Web platform to manage the life-cycle of data from experimental chemistry at <a href="https://www.iciq.org/"><i>Institut Català d'Investigació Química</i> (ICIQ)</a>.</li>
-        <li>Currently allows the import of data from <a href="https://www.perkinelmer.com/libraries/sht_perkinelmer-signals-notebook-013433_01">Perkin-Elmer Signals notebook</a> and the export of this data into the <a href="https://dataverse.org/">Dataverse</a> of <a href="https://dataverse.csuc.cat/">CORA RDR</a>.</li>
+        <li>It currently allows the import of data from <a href="https://www.perkinelmer.com/libraries/sht_perkinelmer-signals-notebook-013433_01">Perkin-Elmer Signals notebook</a> and the export of this data into the <a href="https://dataverse.org/">Dataverse</a> of <a href="https://dataverse.csuc.cat/">CORA RDR</a>.</li>
         <li>Check out <a href="https://iciq-dmp.github.io/">the documentation</a> to get started.</li>
     </ul>
-    <p align="center"> 
-        <h5 align="center"> <br> Used technologies: <br> 
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=".github/img/java.svg" alt="java" width="60" height="60"/> </a> 
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src=".github/img/bootstrap.svg" alt="bootstrap" width="60" height="60"/> </a> 
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src=".github/img/spring.svg" alt="spring" width="60" height="60"/> </a> 
-        <a href="https://www.zkoss.org" target="_blank" rel="noreferrer"> <img src=".github/img/zk.png" alt="flask" width="60" height="60"/> </a> 
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src=".github/img/postgresql.svg" alt="postgresql" width="60" height="60"/> </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=".github/img/bash.png" alt="bash" width="60" height="60"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src=".github/img/javascript.svg" alt="javascript" width="60" height="60"/> </a> 
-        <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src=".github/img/JSON.svg" alt="JSON" width="60" height="60"/> </a>
-        <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src=".github/img/markdown.png" alt="MarkDown" width="60" height="60"/> </a>
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src=".github/img/csharp.svg" alt="csharp" width="60" height="60"/> </a> 
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=".github/img/html.svg" alt="html5" width="60" height="60"/> </a>
-        <a href="https://github.com/AleixMT/Linux-Auto-Customizer" target="_blank" rel="noreferrer"> <img src=".github/img/customizer.png" alt="Linux Auto Customizer" width="60" height="60"/> </a> 
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
-        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src=".github/img/postman.svg" alt="postman" width="60" height="60"/> </a> 
-        <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src=".github/img/jekyll.svg" alt="jekyll" width="60" height="60"/> </a>
-        <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src=".github/img/maven.svg" alt="Apache Maven" width="60" height="60"/> </a> 
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
-        <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src=".github/img/github-actions.svg" alt="GitHub Actions" width="60" height="60"/> </a>
-        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a> 
-        </h5>	
-    </p>
+    <h5 align="center"> <br> Used technologies: <br> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=".github/img/java.svg" alt="java" width="60" height="60"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src=".github/img/bootstrap.svg" alt="bootstrap" width="60" height="60"/> </a> 
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src=".github/img/spring.svg" alt="spring" width="60" height="60"/> </a> 
+    <a href="https://www.zkoss.org" target="_blank" rel="noreferrer"> <img src=".github/img/zk.png" alt="flask" width="60" height="60"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src=".github/img/postgresql.svg" alt="postgresql" width="60" height="60"/> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=".github/img/bash.png" alt="bash" width="60" height="60"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src=".github/img/javascript.svg" alt="javascript" width="60" height="60"/> </a> 
+    <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src=".github/img/JSON.svg" alt="JSON" width="60" height="60"/> </a>
+    <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src=".github/img/markdown.png" alt="MarkDown" width="60" height="60"/> </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src=".github/img/csharp.svg" alt="csharp" width="60" height="60"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=".github/img/html.svg" alt="html5" width="60" height="60"/> </a>
+    <a href="https://github.com/AleixMT/Linux-Auto-Customizer" target="_blank" rel="noreferrer"> <img src=".github/img/customizer.png" alt="Linux Auto Customizer" width="60" height="60"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src=".github/img/postman.svg" alt="postman" width="60" height="60"/> </a> 
+    <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src=".github/img/jekyll.svg" alt="jekyll" width="60" height="60"/> </a>
+    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src=".github/img/maven.svg" alt="Apache Maven" width="60" height="60"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
+    <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src=".github/img/github-actions.svg" alt="GitHub Actions" width="60" height="60"/> </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a> 
+    </h5>	
     </details>
     <details>
     <summary>
@@ -157,16 +153,14 @@ If you want to copy me that is a good place to start-->
         <li>This project was developed originally for my freelance teaching lessons in this subject, but it ended up as a collaboration with the teachers <a href="https://github.com/AreyFerreroRamos">@AreyFerreroRamos</a> and <a href="https://github.com/annaju128">@annaju128</a> and with some students that contributed with their solutions.</li>
         <li>Currently, at 14/03/2024, we have 39 problems, which 15 have been fully solved by the subject's teacher and 10 have been solved by us with different levels of completion.</li>
     </ul>
-    <p align="center"> 
-        <h5 align="center"> <br> Used technologies: <br>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src=".github/img/c.svg" alt="c" width="60" height="60"/> </a>
-        <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="60" height="60"/></a>
-        <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> <img src=".github/img/nds.png" alt="nintendo ds" width="60" height="60"/> </a>
-        <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png" alt="MarkDown" width="60" height="60"/> </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
-        </h5>	
-    </p>
+    <h5 align="center"> <br> Used technologies: <br>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src=".github/img/c.svg" alt="c" width="60" height="60"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="60" height="60"/></a>
+    <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> <img src=".github/img/nds.png" alt="nintendo ds" width="60" height="60"/> </a>
+    <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png" alt="MarkDown" width="60" height="60"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
+    </h5>	
     </details>
     <details>
     <summary>
@@ -187,14 +181,12 @@ If you want to copy me that is a good place to start-->
         <li>Second phase of development is in the branch <i>fase2</i> with the parts of programmers of processes, graphics and keyboard.</li>
         <li>I am looking for help to merge the part of the memory programmer into phase 2 to end the project.</li>
     </ul>
-    <p align="center"> 
-        <h5 align="center"> <br> Used technologies: <br>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src=".github/img/c.svg" alt="c" width="60" height="60"/> </a>
-        <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="60" height="60"/></a>
-        <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> <img src=".github/img/nds.png" alt="nintendo ds" width="60" height="60"/> </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
-        </h5>	
-    </p>
+    <h5 align="center"> <br> Used technologies: <br>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src=".github/img/c.svg" alt="c" width="60" height="60"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="60" height="60"/></a>
+    <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> <img src=".github/img/nds.png" alt="nintendo ds" width="60" height="60"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
+    </h5>	
     </details>
 <br>
 </details>
@@ -400,7 +392,7 @@ If you want to copy me that is a good place to start-->
         <br>
         <a href="https://doi.org/10.1109/iisa.2019.8900718"><img src=".github/img/publication-iisa.2019.8900718.svg" alt="Badge for the e-PEMICU"></a>
         <br>
-        <a href="http://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/publications/Publication_e-PEMICU.pdf"><i><b>⬇️ Download full text</b></i></a>
+        <a href="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/publications/Publication_e-PEMICU.pdf"><i><b>⬇️ Download full text</b></i></a>
     </details>
 </details>
 
