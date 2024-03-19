@@ -382,7 +382,6 @@ If you want to copy me that is a good place to start-->
         <br>
         <a href=""><i><b>🚫 Full text not available</b></i></a>
     </details>
-    <br>
     <details>
         <summary>
             e-PEMICU: an e-Health Platform to Support Early Mobilisation in Intensive Care Units
@@ -394,9 +393,46 @@ If you want to copy me that is a good place to start-->
         <br>
         <a href="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/publications/Publication_e-PEMICU.pdf"><i><b>⬇️ Download full text</b></i></a>
     </details>
+    <br>
 </details>
 
 
+
+<!-- Publications -->
+<details>
+    <summary>
+        🤝 Open-source collaborations:
+    </summary>
+    <br>
+    <details>
+        <summary>
+            docker/roadmap
+        </summary>
+        <details>
+            <summary>
+                Overload method void uploadFile(String doi, File file); to void uploadFile(String doi, InputStream is, String filename); 
+            </summary>
+            <br>
+            <i>Sales-Pardo, M., Mariné-Tena, A., & Guimerà, R.</i> (2023). <b>Hyperedge prediction and the statistical mechanisms of higher-order and lower-order interactions in complex networks</b>. In Proceedings of the National Academy of Sciences (Vol. 120, Issue 50). Proceedings of the National Academy of Sciences.
+            <br>
+            <a href="https://doi.org/10.1073/pnas.2303887120"><img src=".github/img/publication-pnas.2303887120.svg" alt="Badge for the Trigenic Interaction Predictor publication"></a>
+            <br>
+            <a href=""><i><b>🚫 Full text not available</b></i></a>
+        </details>
+    </details>
+    <details>
+        <summary>
+            IQSS/dataverse-client-java
+        </summary>
+        <br>
+        <details>
+            <summary>
+                Overload method void uploadFile(String doi, File file); to void uploadFile(String doi, InputStream is, String filename); 
+            </summary>
+        </details>
+    </details>
+    <br>
+</details>
 
 <!-- Automatic blog post retrieval (GitHub action) -->
 ### 📋 Latest blog posts:
