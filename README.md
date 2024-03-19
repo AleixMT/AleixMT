@@ -341,6 +341,57 @@ If you want to copy me that is a good place to start-->
 
 
 
+<!-- Organizations -->
+<details>
+    <summary>
+        🏘 My organizations:
+    </summary>
+    <br>
+    <details>
+        <summary>
+            Association of Biotechnologists of Catalonia (ASBTEC)
+        </summary>
+        <p align="center">
+            <img src=".github/img/asbtec.png" alt="ASBTEC logo" width="200" height="200"/>
+        </p>
+        <p align="center">
+            <a href="https://github.com/ASBTEC">github.com/ASBTEC</a>
+        </p>
+        <p align="center">
+            <a href="https://ASBTEC.cat/">ASBTEC.cat</a>
+        </p>
+        <ul>
+            <li>ASBTEC is a non-profit organization formed by professionals and students in biotechnology.</li> 
+            <li>ASBTEC is the entity of reference for professionals and students of Biotechnology in Catalonia, capable of gathering and energizing all this human potential to donate money to a collaborative group for biotechnology and for Biotechnology.</li>
+            <li>ASBTEC has the mission of promoting the figure of Biotechnology and Biotechnology among the different actors in the sector (administration, employers and society), ensuring quality and continuous training for Biotechnology, creating a space that facilitates the exchange of ideas, projects and promote the development of a collaborative group both nationally and internationally.</li>
+            <li>This GitHub organization is used to store all the files related to programming projects in ASBTEC, such as the R course.</li>
+            <li>Currently, I am part of the <a href="https://asbtec.cat/quisom/junta-directiva/">board of directors</a> of this organization, in which I am the informatics responsible.</li>
+            <li>As the informatics responsible my responsibilities were maintaining our web page, solve problems that user have and take care of internal projects such as the migration of email accounts to Gsuite.</li>
+        </ul>	
+    </details>
+    <details>
+        <summary>
+            Equipaments Hosteleria Salou (EHS)
+        </summary>
+        <p align="center">
+            <img src=".github/img/ehs.png" alt="EHS logo" width="200" height="200"/>
+        </p>
+        <p align="center">
+            <a href="https://github.com/Equipaments-Hosteleria-Salou">github.com/Equipaments-Hosteleria-Salou</a>
+        </p>
+        <p align="center">
+            <a href="https://www.menajeymas.com/es/equipaments-hosteleria-salou">menajeymas.com</a>
+        </p>
+        <ul>
+            <li>As the informatics responsible my responsibilities were maintaining our web page, solve problems that user have and take care of internal projects such as the migration of email accounts to Gsuite.</li>
+        </ul>	
+    </details>
+    <br>
+</details>
+
+
+
+<!-- Profile stats -->
 <details>
     <summary>
         📈 Profile stats:
@@ -406,32 +457,48 @@ If you want to copy me that is a good place to start-->
     <br>
     <details>
         <summary>
-            docker/roadmap
+            <b>Overload method void uploadFile(String doi, File file); to void uploadFile(String doi, InputStream is, String filename)</b> in <a href="https://github.com/IQSS/dataverse-client-java">IQSS/dataverse-client-java</a>
         </summary>
-        <details>
-            <summary>
-                Overload method void uploadFile(String doi, File file); to void uploadFile(String doi, InputStream is, String filename); 
-            </summary>
-            <br>
-            <i>Sales-Pardo, M., Mariné-Tena, A., & Guimerà, R.</i> (2023). <b>Hyperedge prediction and the statistical mechanisms of higher-order and lower-order interactions in complex networks</b>. In Proceedings of the National Academy of Sciences (Vol. 120, Issue 50). Proceedings of the National Academy of Sciences.
-            <br>
-            <a href="https://doi.org/10.1073/pnas.2303887120"><img src=".github/img/publication-pnas.2303887120.svg" alt="Badge for the Trigenic Interaction Predictor publication"></a>
-            <br>
-            <a href=""><i><b>🚫 Full text not available</b></i></a>
-        </details>
+        <ul>
+          <li><i>Summary</i>: Overload a library method to be able to supply data to it without needing to use a file on disk.</li>
+          <li><i>Status</i>: <b>Completed</b></li>
+          <li><i>Issue</i>: <b><a href="https://github.com/IQSS/dataverse-client-java/issues/12">#12</a></b></li>
+          <li><i>Pull Request</i>: <b><a href="https://github.com/IQSS/dataverse-client-java/pull/13">✅ #13</a></b></li>
+        </ul>
     </details>
     <details>
         <summary>
-            IQSS/dataverse-client-java
+            <b>public Identifier createDataset(String dataSetJson, String dataverseAlias) {...} returns a DB identifier but we need a doi to uploadFile</b> in <a href="https://github.com/IQSS/dataverse-client-java">IQSS/dataverse-client-java</a>
         </summary>
-        <br>
-        <details>
-            <summary>
-                Overload method void uploadFile(String doi, File file); to void uploadFile(String doi, InputStream is, String filename); 
-            </summary>
-        </details>
+        <ul>
+          <li><i>Summary</i>: Make <i>createDataset</i> return a DOI of the created dataset.</li>
+          <li><i>Status</i>: <b>Completed</b></li>
+          <li><i>Issue</i>: <b><a href="https://github.com/IQSS/dataverse-client-java/issues/14">#14</a></b></li>
+          <li><i>Pull Request</i>: <b><a href="https://github.com/IQSS/dataverse-client-java/pull/23">✅ #23</a></b></li>
+        </ul>
     </details>
-    <br>
+    <details>
+        <summary>
+            <b>Cannot retrieve any type of identifier from the files created with uploadFile method since it does not return any information of the created file</b> in <a href="https://github.com/IQSS/dataverse-client-java">IQSS/dataverse-client-java</a>
+        </summary>
+        <ul>
+          <li><i>Summary</i>: Make <i>uploadFile</i> method return an id to the created file.</li>
+          <li><i>Status</i>: <b>Completed</b></li>
+          <li><i>Issue</i>: <b><a href="https://github.com/IQSS/dataverse-client-java/issues/16">#16</a></b></li>
+          <li><i>Pull Request</i>: <b><a href="https://github.com/IQSS/dataverse-client-java/pull/23">✅ #23</a></b></li>
+        </ul>
+    </details>
+    <details>
+        <summary>
+            <b>[FEATURE REQUEST] docker system prune --all or equivalent command to remove all docker data (containers, volumes, networks, images and cached layers) </b> in <a href="https://github.com/docker/roadmap">docker/roadmap</a>
+        </summary>
+        <ul>
+          <li><i>Summary</i>: Create a new shortcut to reset the state of the docker engine (remove all containers, images, volumes and networks)</li>
+          <li><i>Status</i>: <b>In progress</b></li>
+          <li><i>Issue</i>: <b><a href="https://github.com/docker/roadmap/issues/617">#617</a></b></li>
+          <li><i>Pull Request</i>: <b>❌ N/A</b></li>
+        </ul>
+    </details>
 </details>
 
 <!-- Automatic blog post retrieval (GitHub action) -->
