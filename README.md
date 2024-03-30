@@ -361,12 +361,33 @@ If you want to copy me that is a good place to start-->
             <a href="https://ASBTEC.cat/">ASBTEC.cat</a>
         </p>
         <ul>
-            <li>ASBTEC is a non-profit organization formed by professionals and students in biotechnology.</li> 
-            <li>ASBTEC is the entity of reference for professionals and students of Biotechnology in Catalonia, capable of gathering and energizing all this human potential to donate money to a collaborative group for biotechnology and for Biotechnology.</li>
-            <li>ASBTEC has the mission of promoting the figure of Biotechnology and Biotechnology among the different actors in the sector (administration, employers and society), ensuring quality and continuous training for Biotechnology, creating a space that facilitates the exchange of ideas, projects and promote the development of a collaborative group both nationally and internationally.</li>
-            <li>This GitHub organization is used to store all the files related to programming projects in ASBTEC, such as the R course.</li>
-            <li>Currently, I am part of the <a href="https://asbtec.cat/quisom/junta-directiva/">board of directors</a> of this organization, in which I am the informatics responsible.</li>
-            <li>As the informatics responsible my responsibilities were maintaining our web page, solve problems that user have and take care of internal projects such as the migration of email accounts to Gsuite.</li>
+            <li>
+                ASBTEC is a non-profit organization formed by professionals and students in Biotechnology.
+            </li> 
+            <li>
+                ASBTEC is the entity of reference for professionals and students of Biotechnology in Catalonia, capable 
+                of gathering and energizing all this human potential to donate money to a collaborative group for 
+                Biotechnology and for Biotechnology.
+            </li>
+            <li>
+                ASBTEC has the mission of promoting the figure of Biotechnology and Biotechnology among the different 
+                actors in the sector (administration, employers and society), ensuring quality and continuous training 
+                for Biotechnology, creating a space that facilitates the exchange of ideas, projects and promote the 
+                development of a collaborative group both nationally and internationally.
+            </li>
+            <li>
+                This GitHub organization is used to store all the files related to programming projects in ASBTEC, 
+                such as the R course.
+            </li>
+            <li>
+                Currently, I am part of the <a href="https://asbtec.cat/quisom/junta-directiva/">board of directors</a> 
+                of this organization, in which I am the informatics responsible.
+            </li>
+            <li>
+                As the informatics responsible my responsibilities were maintaining our web page made with Wordpress, 
+                solve problems that users may have and take care of internal projects such as the migration of email 
+                accounts to the Google Suite or the automatic creation of email signatures for the board of directors.
+            </li>
         </ul>	
     </details>
     <details>
@@ -383,7 +404,28 @@ If you want to copy me that is a good place to start-->
             <a href="https://www.menajeymas.com/es/equipaments-hosteleria-salou">menajeymas.com</a>
         </p>
         <ul>
-            <li>As the informatics responsible my responsibilities were maintaining our web page, solve problems that user have and take care of internal projects such as the migration of email accounts to Gsuite.</li>
+            <li>
+                Equipaments Hosteleria Salou is an enterprise established in Salou and Vila-Seca specialized in high 
+                quality hostelry.  
+            </li>
+            <li>
+                Equipaments Hosteleria Salou is the official supplier of hostelry material in the province of 
+                Tarragona. Its clients are hotels, taverns, schools, hospitals, restaurants and similar types of 
+                business throughout the province.
+            </li>
+            <li>
+                It also does sell to individuals through both physical and online shops.
+            </li>
+            <li>
+                During the pandemic Equipaments Hosteleria Salou suffered a ransomware attack that required disaster 
+                mitigation and forced to change drastically its computer infrastructure to increase its security. I 
+                performed the required actions to recover the data and restore the service of its computer 
+                infrastructure as soon as possible and with the minimum friction possible for the users. 
+            </li>
+            <li>
+                This GitHub organization contains projects to administer the Windows machines of this business and 
+                also some automated functionalities that the employees may need. 
+            </li>
         </ul>	
     </details>
     <br>
