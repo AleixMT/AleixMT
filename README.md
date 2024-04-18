@@ -193,7 +193,7 @@ If you want to copy me that is a good place to start-->
         ICIQ-DMP.github.io
     </summary>
     <p align="center">
-        <img src=".github/img/ICIQ-DMP.png" alt="Image with the main page of the ICIQ DMP documentation" width="398" height="666"/>
+        <img src=".github/img/ICIQ-DMP.png" alt="Image with the main page of the ICIQ DMP documentation" width="1057" height="856"/>
     </p>
     <p align="center">
     <a href="https://github.com/ICIQ-DMP/ICIQ-DMP-github.io">Repository</a>
@@ -216,6 +216,42 @@ If you want to copy me that is a good place to start-->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
     <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src=".github/img/github-actions.svg" alt="GitHub Actions" width="60" height="60"/> </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
+    </h5>	
+    </details>
+    <details>
+    <summary>
+        home-server
+    </summary>
+    <p align="center">
+        <img src=".github/img/home-server.png" alt="Stock image of the visuals of the screen in a dual boot with Windows 10 and Fedora" width="720" height="400"/>
+    </p>
+    <p align="center">
+    <a href="https://github.com/AleixMT/home-server">Repository</a>
+    </p>
+    <i> August 2022 - Present </i>
+    <ul>
+        <li>Documentation repository for the configuration of a custom home media server.</li>
+        <li>It mainly contains a wiki that explains the different steps to follow when configuring certain features 
+            and components of a home server</li>
+        <li>It also contains configurations, scripts, Dockerfiles and other resources to set up the home server.</li>
+        <li>This configuration for a home server features multiple boot with Windows and other systems, a VPN with 
+            OpenVPN to access
+            the web services from any part of the world safely, a configuration of a file-sharing service such as Samba 
+            , a WoLAN service to switch on the server from any part of the world, SSH access, an automatic monitoring 
+            and download of movies and series using Jackett + Radarr + Sonarr + Transmission and a home page to access
+            all your home web services.</li>
+    </ul>
+    <h5 align="center"> <br> Used technologies: <br>
+    <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src=".github/img/fedora.svg" alt="Ubuntu" width="60" height="60"/> </a>
+    <a href="https://www.samba.org/" target="_blank" rel="noreferrer"> <img src=".github/img/samba.png" alt="Samba" width="60" height="60"/> </a>
+    <a href="https://openvpn.net/" target="_blank" rel="noreferrer"> <img src=".github/img/openvpn.png" alt="Open VPN" width="60" height="60"/> </a>
+    <a href="https://thekelleys.org.uk/dnsmasq/doc.html" target="_blank" rel="noreferrer"> <img src=".github/img/dnsmasq.png" alt="DNS-masq" width="60" height="60"/> </a>
+    <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src=".github/img/markdown.png" alt="MarkDown" width="60" height="60"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=".github/img/html.svg" alt="html5" width="60" height="60"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
+    <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src=".github/img/github-actions.svg" alt="GitHub Actions" width="60" height="60"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
     </h5>	
     </details>
