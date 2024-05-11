@@ -39,12 +39,12 @@ If you want to copy me that is a good place to start-->
 <h3 align="center">Connect with me:</h3>
     <p align="center">
         <a href="https://www.linkedin.com/in/aleix-mariné-tena-083672122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aleix Mariné-Tena LinkedIn" height="40" width="40" /></a>
-        <a href="mailto:aleix.marine.tena@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="mail aleix.marine.tena@gmail.com" height="40" width="40" /></a>
-        <a href="https://stackoverflow.com/users/7733017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7733017" height="40" width="40" /></a>
-        <a href="https://discord.gg/1103985156227874816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1103985156227874816" height="40" width="40" /></a>
-        <a href="https://dev.to/aleixmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="40" width="40" /></a>
-        <a href="https://codesandbox.com/aleix_mt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aleix_mt" height="40" width="40" /></a>
-        <a href="https://www.leetcode.com/aleixmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aleixmt" height="40" width="40" /></a>
+        <a href="mailto:aleix.marine.tena@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="mail to aleix.marine.tena@gmail.com" height="40" width="40" /></a>
+        <a href="https://stackoverflow.com/users/7733017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="AleixMT Stack Overflow profile" height="40" width="40" /></a>
+        <a href="https://discord.gg/1103985156227874816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AleixMT discord connection" height="40" width="40" /></a>
+        <a href="https://dev.to/aleixmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="AleixMT dev.to profile" height="40" width="40" /></a>
+        <a href="https://codesandbox.com/aleix_mt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="AleixMT codesandbox profile" height="40" width="40" /></a>
+        <a href="https://www.leetcode.com/aleixmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AleixMT leetcode profile" height="40" width="40" /></a>
         <a href="https://orcid.org/0000-0001-9273-1203" target="blank"><img align="center" src=".github/img/orcid.svg" alt="aleixMT ORCID file" height="40" width="40" /></a>
     </p>
 
@@ -73,7 +73,7 @@ If you want to copy me that is a good place to start-->
 	</summary>
 	<br>
 	<details>
-		<summary>
+		<summary id="project_Linux-Auto-Customizer">
 			Linux Auto Customizer
 		</summary> 
 		<p align="center">
@@ -492,6 +492,39 @@ If you want to copy me that is a good place to start-->
             <li>
                 This GitHub organization contains projects to administer the Windows machines of this business and 
                 also some automated functionalities that the employees may need. 
+            </li>
+        </ul>	
+    </details>
+    <details>
+        <summary>
+            Gua-tk software
+        </summary>
+        <p align="center">
+            <img src=".github/img/customizer.png" alt="The Linux Auto Customizer logo" width="200" height="200"/>
+        </p>
+        <p align="center">
+            <a href="https://github.com/Gua-tk">github.com/Gua-tk</a>
+        </p>
+        <ul>
+            <li>
+                Gua-tk is an organization created to store all the projects that are related to the 
+                Linux-Auto-Customizer software, which is my main open-source project.
+            </li>
+            <li>
+                The main repository of the organization is the <a href="https://github.com/Gua-tk/Linux-Auto-Customizer">Linux-Auto-Customizer project</a>.
+                You can take a look to the details of this project in 
+                <a href="#project_Linux-Auto-Customizer">this section</a> of this readme.
+            </li>
+            <li>
+                It contains different repositories that are related with the Linux-Auto-Customizer project in some way.
+            </li>
+            <li>
+                For example, we have the <a href="https://github.com/Gua-tk/converters">converters project</a>, which 
+                ended up as an installable feature in the Linux-Auto-Customizer software.
+            </li>
+            <li>
+                We also have the <a href="https://github.com/Gua-tk/Wallpapers">wallpaper project</a>, which 
+                is used to store the wallpapers for the "wallpapers" feature from the Linux-Auto-Customizer software.
             </li>
         </ul>	
     </details>
