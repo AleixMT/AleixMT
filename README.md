@@ -286,7 +286,13 @@ If you want to copy me that is a good place to start-->
     <p align="center"> 
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src=".github/img/css.svg" alt="css3" width="60" height="60"/> </a> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=".github/img/html.svg" alt="html5" width="60" height="60"/> </a>
-        <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src=".github/img/yaml.png" alt="yaml" width="60" height="60"/> </a>
+        <a href="https://yaml.org/" target="_blank" rel="noreferrer">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/yaml_w.png">
+                <source media="(prefers-color-scheme: light)" srcset=".github/img/yaml.png">
+                <img src=".github/img/yaml_w.png" alt="yaml" width="60" height="60"/> 
+            </picture>
+        </a>
         <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src=".github/img/LaTeX.png" alt="LaTeX" width="60" height="60"/> </a>
         <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src=".github/img/JSON.svg" alt="JSON" width="60" height="60"/> </a>
         <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src=".github/img/markdown.png" alt="MarkDown" width="60" height="60"/> </a>
