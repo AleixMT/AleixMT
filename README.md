@@ -289,8 +289,7 @@ If you want to copy me that is a good place to start-->
         <a href="https://yaml.org/" target="_blank" rel="noreferrer">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/yaml_w.png">
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/yaml.png">
-                <img src=".github/img/yaml_w.png" alt="yaml" width="60" height="60"/> 
+                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/yaml.png" alt="yaml" width="60" height="60"/> 
             </picture>
         </a>
         <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src=".github/img/LaTeX.png" alt="LaTeX" width="60" height="60"/> </a>
