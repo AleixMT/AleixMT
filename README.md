@@ -288,8 +288,8 @@ If you want to copy me that is a good place to start-->
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=".github/img/html.svg" alt="html5" width="60" height="60"/> </a>
         <a href="https://yaml.org/" target="_blank" rel="noreferrer">
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/yaml_w.png">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/yaml.png" alt="yaml" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/yaml.png">
+                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/yaml_w.png" alt="yaml" width="60" height="60"/> 
             </picture>
         </a>
         <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src=".github/img/LaTeX.png" alt="LaTeX" width="60" height="60"/> </a>
