@@ -450,7 +450,7 @@ If you want to copy me that is a good place to start-->
         </p>
         <h5 align="center">Operating Systems:</h5>
         <p align="center"> 
-            <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src=".github/img/debian.png" alt="Debian" width="60" height="60"/> 
+            <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> 
 	    	<picture>
 	                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/debian_w.png">
 			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/debian.png">
