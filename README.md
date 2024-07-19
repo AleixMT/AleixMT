@@ -180,7 +180,13 @@ If you want to copy me that is a good place to start-->
     <h5 align="center"> <br> Used technologies: <br>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src=".github/img/c.svg" alt="c" width="60" height="60"/> </a>
     <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="60" height="60"/></a>
-    <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> <img src=".github/img/nds.png" alt="nintendo ds" width="60" height="60"/> </a>
+    <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> 
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png">
+		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png" alt="nds" width="60" height="60"/> 
+	</picture>
+    </a> 
     <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png" alt="MarkDown" width="60" height="60"/> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
