@@ -142,9 +142,21 @@ If you want to copy me that is a good place to start-->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src=".github/img/postman.svg" alt="postman" width="60" height="60"/> </a> 
     <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src=".github/img/jekyll.svg" alt="jekyll" width="60" height="60"/> </a>
-    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src=".github/img/maven.svg" alt="Apache Maven" width="60" height="60"/> </a> 
+    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+	    <picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven.svg">
+		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven.svg" alt="maven" width="60" height="60"/> 
+	    </picture>
+    </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
-    <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src=".github/img/github-actions.svg" alt="GitHub Actions" width="60" height="60"/> </a>
+    <a href="https://www.github.com" target="_blank" rel="noreferrer">
+	    <picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github_actions_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg">
+		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
+	    </picture>
+    </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a> 
     </h5>	
     </details>
@@ -196,7 +208,13 @@ If you want to copy me that is a good place to start-->
     <h5 align="center"> <br> Used technologies: <br>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src=".github/img/c.svg" alt="c" width="60" height="60"/> </a>
     <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="60" height="60"/></a>
-    <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> <img src=".github/img/nds.png" alt="nintendo ds" width="60" height="60"/> </a>
+    <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> 
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png">
+		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png" alt="nds" width="60" height="60"/> 
+	</picture>
+    </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
     </h5>	
     </details>
@@ -226,9 +244,14 @@ If you want to copy me that is a good place to start-->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
     <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src=".github/img/jekyll.svg" alt="jekyll" width="60" height="60"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
-    <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src=".github/img/github-actions.svg" alt="GitHub Actions" width="60" height="60"/> </a>
+     <a href="https://www.github.com" target="_blank" rel="noreferrer">
+	    <picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github_actions_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg">
+		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
+	    </picture>
+    </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
     </h5>	
     </details>
     <details>
@@ -263,8 +286,13 @@ If you want to copy me that is a good place to start-->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=".github/img/html.svg" alt="html5" width="60" height="60"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
-    <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src=".github/img/github-actions.svg" alt="GitHub Actions" width="60" height="60"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
+    <a href="https://www.github.com" target="_blank" rel="noreferrer">
+	    <picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github_actions_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg">
+		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
+	    </picture>
+    </a>    
     </h5>	
     </details>
 <br>
