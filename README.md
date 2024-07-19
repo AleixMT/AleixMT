@@ -307,7 +307,7 @@ If you want to copy me that is a good place to start-->
     <p align="center"> 
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap_w.svg">
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap_w.png">
 		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap.svg">
                 <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap.svg" alt="bootstrap" width="60" height="60"/> 
             </picture>
@@ -334,17 +334,17 @@ If you want to copy me that is a good place to start-->
     <p align="center"> 
         <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> 
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/nds_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/nds.png">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/nds.png" alt="nds" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png">
+                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png" alt="nds" width="60" height="60"/> 
             </picture>
 	</a> 
         <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src=".github/img/raspberry.png" alt="nintendo 3ds" width="60" height="60"/> </a> 
         <a href="https://en.wikipedia.org/wiki/Nintendo_3DS" target="_blank" rel="noreferrer">
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/3ds_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/3ds.png">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/3ds.png" alt="3ds" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/3DS_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/3DS.png">
+                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/3DS.png" alt="3ds" width="60" height="60"/> 
             </picture>
 	</a> 
         <a href="https://en.wikipedia.org/wiki/Nintendo_Switch" target="_blank" rel="noreferrer"> <img src=".github/img/switch.png" alt="nintendo switch" width="60" height="60"/> </a> 
