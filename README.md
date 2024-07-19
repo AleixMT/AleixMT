@@ -373,8 +373,8 @@ If you want to copy me that is a good place to start-->
 	</a>
         <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/vercel.svg">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/vercel_w.png">
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/vercel_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/vercel.svg">
                 <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/vercel.svg" alt="vercel" width="60" height="60"/> 
             </picture>
 	</a>
@@ -386,8 +386,8 @@ If you want to copy me that is a good place to start-->
         <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src=".github/img/postman.svg" alt="postman" width="60" height="60"/> </a> 
         <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven.svg">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven_w.png">
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven.svg">
                 <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven.svg" alt="maven" width="60" height="60"/> 
             </picture>
 	</a> 
@@ -396,8 +396,8 @@ If you want to copy me that is a good place to start-->
         <a href="https://overleaf.com/" target="_blank" rel="noreferrer"> <img src=".github/img/overleaf.png" alt="overleaf" width="60" height="60"/> </a>
         <a href="https://www.freedesktop.org/wiki/" target="_blank" rel="noreferrer">
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop.svg">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop_w.png">
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop.svg">
                 <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop.svg" alt="freedesktop" width="60" height="60"/> 
             </picture>
 	</a>
@@ -442,8 +442,8 @@ If you want to copy me that is a good place to start-->
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src=".github/img/mysql.svg" alt="mysql" width="60" height="60"/> </a>
             <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> 
 		<picture>
-	                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/elasticsearch.png">
-			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/elastic_w.png">
+	                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/elastic_w.png">
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/elasticsearch.png">
 	                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/elasticsearch.png" alt="elasticsearch" width="60" height="60"/> 
             	</picture>
 	    </a>
@@ -452,8 +452,8 @@ If you want to copy me that is a good place to start-->
         <p align="center"> 
             <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src=".github/img/debian.png" alt="Debian" width="60" height="60"/> 
 	    	<picture>
-	                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/debian.png">
-			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/debian_w.png">
+	                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/debian_w.png">
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/debian.png">
 	                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/debian.png" alt="debian" width="60" height="60"/> 
             	</picture>
 	    </a> 
