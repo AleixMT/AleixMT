@@ -95,7 +95,13 @@ If you want to copy me that is a good place to start-->
             Used technologies:
             <br> 
             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=".github/img/bash.png" alt="bash" width="60" height="60"/> </a> 
-            <a href="https://www.freedesktop.org/wiki/" target="_blank" rel="noreferrer"><img src=".github/img/freedesktop.svg" alt="freedesktop.org" width="60" height="60"/></a>
+	    <a href="https://www.freedesktop.org/wiki/" target="_blank" rel="noreferrer">
+	    	<picture>
+	                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop_w.png">
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop.svg">
+	                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop.svg" alt="freedesktop" width="60" height="60"/> 
+            	</picture>
+	    </a>
         </h5>
 	</details>
     <details>
