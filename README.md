@@ -122,7 +122,13 @@ If you want to copy me that is a good place to start-->
     </ul>
     <h5 align="center"> <br> Used technologies: <br> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=".github/img/java.svg" alt="java" width="60" height="60"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src=".github/img/bootstrap.svg" alt="bootstrap" width="60" height="60"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap_w.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap.svg">
+		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap.svg" alt="bootstrap" width="60" height="60"/> 
+    	</picture>
+    </a>     
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src=".github/img/spring.svg" alt="spring" width="60" height="60"/> </a> 
     <a href="https://www.zkoss.org" target="_blank" rel="noreferrer"> <img src=".github/img/zk.png" alt="flask" width="60" height="60"/> </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src=".github/img/postgresql.svg" alt="postgresql" width="60" height="60"/> </a>
