@@ -8,7 +8,7 @@ If you want to copy me that is a good place to start-->
 
 
 <!-- Title -->
-<h3 align="center">A scientist & engineer working as full-stack developer & data steward</h3>
+<h3 align="center">A scientist & engineer working as full-stack developer, data steward and university professor</h3>
 
 
 
