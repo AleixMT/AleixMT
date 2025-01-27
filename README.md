@@ -97,9 +97,9 @@ If you want to copy me that is a good place to start-->
             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=".github/img/bash.png" alt="bash" width="60" height="60"/> </a> 
 	    <a href="https://www.freedesktop.org/wiki/" target="_blank" rel="noreferrer">
 	    	<picture>
-	                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop_w.png">
-			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop.svg">
-	                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop.svg" alt="freedesktop" width="60" height="60"/> 
+	                <source media="(prefers-color-scheme: dark)" srcset=".github/img/freedesktop_w.png">
+			<source media="(prefers-color-scheme: light)" srcset=".github/img/freedesktop.svg">
+	                <img src=".github/img/freedesktop.svg" alt="freedesktop" width="60" height="60"/> 
             	</picture>
 	    </a>
         </h5>
@@ -124,9 +124,9 @@ If you want to copy me that is a good place to start-->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=".github/img/java.svg" alt="java" width="60" height="60"/> </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap.svg">
-		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap.svg" alt="bootstrap" width="60" height="60"/> 
+		<source media="(prefers-color-scheme: dark)" srcset=".github/img/bootstrap_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/bootstrap.svg">
+		<img src=".github/img/bootstrap.svg" alt="bootstrap" width="60" height="60"/> 
     	</picture>
     </a>     
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src=".github/img/spring.svg" alt="spring" width="60" height="60"/> </a> 
@@ -144,17 +144,17 @@ If you want to copy me that is a good place to start-->
     <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src=".github/img/jekyll.svg" alt="jekyll" width="60" height="60"/> </a>
     <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
 	    <picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven.svg">
-		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven.svg" alt="maven" width="60" height="60"/> 
+		<source media="(prefers-color-scheme: dark)" srcset=".github/img/maven_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/maven.svg">
+		<img src=".github/img/maven.svg" alt="maven" width="60" height="60"/> 
 	    </picture>
     </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
     <a href="https://www.github.com" target="_blank" rel="noreferrer">
 	    <picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github_actions_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg">
-		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
+		<source media="(prefers-color-scheme: dark)" srcset=".github/img/github_actions_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/github-actions.svg">
+		<img src=".github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
 	    </picture>
     </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a> 
@@ -182,9 +182,9 @@ If you want to copy me that is a good place to start-->
     <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="60" height="60"/></a>
     <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> 
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png">
-		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png" alt="nds" width="60" height="60"/> 
+		<source media="(prefers-color-scheme: dark)" srcset=".github/img/NDS_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/NDS.png">
+		<img src=".github/img/NDS.png" alt="nds" width="60" height="60"/> 
 	</picture>
     </a> 
     <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png" alt="MarkDown" width="60" height="60"/> </a>
@@ -216,9 +216,9 @@ If you want to copy me that is a good place to start-->
     <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src=".github/img/assembly.png" alt="assembly" width="60" height="60"/></a>
     <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> 
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png">
-		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png" alt="nds" width="60" height="60"/> 
+		<source media="(prefers-color-scheme: dark)" srcset=".github/img/NDS_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/NDS.png">
+		<img src=".github/img/NDS.png" alt="nds" width="60" height="60"/> 
 	</picture>
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
@@ -252,9 +252,9 @@ If you want to copy me that is a good place to start-->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
      <a href="https://www.github.com" target="_blank" rel="noreferrer">
 	    <picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github_actions_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg">
-		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
+		<source media="(prefers-color-scheme: dark)" srcset=".github/img/github_actions_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/github-actions.svg">
+		<img src=".github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
 	    </picture>
     </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a>
@@ -294,9 +294,9 @@ If you want to copy me that is a good place to start-->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
     <a href="https://www.github.com" target="_blank" rel="noreferrer">
 	    <picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github_actions_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg">
-		<img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
+		<source media="(prefers-color-scheme: dark)" srcset=".github/img/github_actions_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/github-actions.svg">
+		<img src=".github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
 	    </picture>
     </a>    
     </h5>	
@@ -334,16 +334,16 @@ If you want to copy me that is a good place to start-->
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=".github/img/html.svg" alt="html5" width="60" height="60"/> </a>
         <a href="https://yaml.org/" target="_blank" rel="noreferrer">
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/yaml_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/yaml_b.png">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/yaml_b.png" alt="yaml" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/yaml_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/yaml_b.png">
+                <img src=".github/img/yaml_b.png" alt="yaml" width="60" height="60"/> 
             </picture>
         </a>
         <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/LaTeX_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/LaTeX.png">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/LaTeX.png" alt="LaTeX" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/LaTeX_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/LaTeX.png">
+                <img src=".github/img/LaTeX.png" alt="LaTeX" width="60" height="60"/> 
             </picture>
 	</a>
         <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src=".github/img/JSON.svg" alt="JSON" width="60" height="60"/> </a>
@@ -353,9 +353,9 @@ If you want to copy me that is a good place to start-->
     <p align="center"> 
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap.svg">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/bootstrap.svg" alt="bootstrap" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/bootstrap_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/bootstrap.svg">
+                <img src=".github/img/bootstrap.svg" alt="bootstrap" width="60" height="60"/> 
             </picture>
 	</a> 
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src=".github/img/spring.svg" alt="spring" width="60" height="60"/> </a> 
@@ -380,17 +380,17 @@ If you want to copy me that is a good place to start-->
     <p align="center"> 
         <a href="https://www.nintendo.es/Nintendo-DS/Gama-de-consolas-Nintendo-DS-Pagina-web-oficial-de-Nintendo-Iberica-Nintendo-DS-Nintendo-DSi-Nintendo-DSi-XL-116380.html" target="_blank" rel="noreferrer"> 
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/NDS.png" alt="nds" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/NDS_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/NDS.png">
+                <img src=".github/img/NDS.png" alt="nds" width="60" height="60"/> 
             </picture>
 	</a> 
         <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src=".github/img/raspberry.png" alt="nintendo 3ds" width="60" height="60"/> </a> 
         <a href="https://en.wikipedia.org/wiki/Nintendo_3DS" target="_blank" rel="noreferrer">
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/3DS_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/3DS.png">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/3DS.png" alt="3ds" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/3DS_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/3ds.png">
+                <img src=".github/img/3DS.png" alt="3ds" width="60" height="60"/> 
             </picture>
 	</a> 
         <a href="https://en.wikipedia.org/wiki/Nintendo_Switch" target="_blank" rel="noreferrer"> <img src=".github/img/switch.png" alt="nintendo switch" width="60" height="60"/> </a> 
@@ -402,9 +402,9 @@ If you want to copy me that is a good place to start-->
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src=".github/img/nginx.svg" alt="nginx" width="60" height="60"/> </a> 
         <a href="https://www.github.com" target="_blank" rel="noreferrer">
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github_actions_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/github_actions_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/github-actions.svg">
+                <img src=".github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
             </picture>
 	</a>
         <a href="https://openvpn.net/" target="_blank" rel="noreferrer"> <img src=".github/img/openvpn.png" alt="Open VPN" width="60" height="60"/> </a>
@@ -412,16 +412,16 @@ If you want to copy me that is a good place to start-->
         <a href="https://www.samba.org/" target="_blank" rel="noreferrer"> <img src=".github/img/samba.png" alt="Samba" width="60" height="60"/> </a>
         <a href="https://railway.app/" target="_blank" rel="noreferrer">
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/railway_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/railway.svg">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/railway.svg" alt="railway" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/railway_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/railway.svg">
+                <img src=".github/img/railway.svg" alt="railway" width="60" height="60"/> 
             </picture>
 	</a>
         <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/vercel_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/vercel.svg">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/vercel.svg" alt="vercel" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/vercel_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/vercel.svg">
+                <img src=".github/img/vercel.svg" alt="vercel" width="60" height="60"/> 
             </picture>
 	</a>
     </p>
@@ -432,9 +432,9 @@ If you want to copy me that is a good place to start-->
         <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src=".github/img/postman.svg" alt="postman" width="60" height="60"/> </a> 
         <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven.svg">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/maven.svg" alt="maven" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/maven_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/maven.svg">
+                <img src=".github/img/maven.svg" alt="maven" width="60" height="60"/> 
             </picture>
 	</a> 
         <a href="https://www.gnu.org/software/make/manual/make.html" target="_blank" rel="noreferrer"> <img src=".github/img/make.jpeg" alt="GNU make" width="60" height="60"/> </a> 
@@ -442,9 +442,9 @@ If you want to copy me that is a good place to start-->
         <a href="https://overleaf.com/" target="_blank" rel="noreferrer"> <img src=".github/img/overleaf.png" alt="overleaf" width="60" height="60"/> </a>
         <a href="https://www.freedesktop.org/wiki/" target="_blank" rel="noreferrer">
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop_w.png">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop.svg">
-                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/freedesktop.svg" alt="freedesktop" width="60" height="60"/> 
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/freedesktop_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/freedesktop.svg">
+                <img src=".github/img/freedesktop.svg" alt="freedesktop" width="60" height="60"/> 
             </picture>
 	</a>
     </p>
@@ -488,9 +488,9 @@ If you want to copy me that is a good place to start-->
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src=".github/img/mysql.svg" alt="mysql" width="60" height="60"/> </a>
             <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> 
 		<picture>
-	                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/elastic_w.png">
-			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/elasticsearch.png">
-	                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/elasticsearch.png" alt="elasticsearch" width="60" height="60"/> 
+	                <source media="(prefers-color-scheme: dark)" srcset=".github/img/elastic_w.png">
+			<source media="(prefers-color-scheme: light)" srcset=".github/img/elasticsearch.png">
+	                <img src=".github/img/elasticsearch.png" alt="elasticsearch" width="60" height="60"/> 
             	</picture>
 	    </a>
         </p>
@@ -498,9 +498,9 @@ If you want to copy me that is a good place to start-->
         <p align="center"> 
             <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> 
 	    	<picture>
-	                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/debian_w.png">
-			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/debian.png">
-	                <img src="https://raw.githubusercontent.com/AleixMT/AleixMT/master/.github/img/debian.png" alt="debian" width="60" height="60"/> 
+	                <source media="(prefers-color-scheme: dark)" srcset=".github/img/debian_w.png">
+			<source media="(prefers-color-scheme: light)" srcset=".github/img/debian.png">
+	                <img src=".github/img/debian.png" alt="debian" width="60" height="60"/> 
             	</picture>
 	    </a> 
         </p>
