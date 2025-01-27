@@ -260,6 +260,44 @@ If you want to copy me that is a good place to start-->
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a>
     </h5>	
     </details>
+<!-- here -->
+    <details>
+    <summary>
+        github-backup
+    </summary>
+    <p align="center">
+        <img src=".github/img/ICIQ-DMP.png" alt="Image with the main page of the ICIQ DMP documentation" width="1057" height="856"/>
+    </p>
+    <p align="center">
+    <a href="https://github.com/ICIQ-DMP/ICIQ-DMP-github.io">Repository</a>
+    </p>
+    <p align="center">
+    <a href="https://ICIQ-DMP-github.io">Web page</a>
+    </p>
+    <i> September 2022 - Present </i>
+    <ul>
+        <li>Documentation page for the whole project of digitalization at <a href="https://www.iciq.org/"><i>ICIQ</i></a>.</li>
+        <li>Contains documentation regarding the usage of eChempad project, the eChempad production server, the data 
+            management lifecycle of experiments at ICIQ and the specification of data schemes in Dataverse / CORA RDR 
+            and Perkin-Elmer Signals Notebook</li>
+    </ul>
+    <h5 align="center"> <br> Used technologies: <br>
+    <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src=".github/img/markdown.png" alt="MarkDown" width="60" height="60"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=".github/img/html.svg" alt="html5" width="60" height="60"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
+    <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src=".github/img/jekyll.svg" alt="jekyll" width="60" height="60"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
+     <a href="https://www.github.com" target="_blank" rel="noreferrer">
+	    <picture>
+		<source media="(prefers-color-scheme: dark)" srcset=".github/img/github_actions_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/github-actions.svg">
+		<img src=".github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
+	    </picture>
+    </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a>
+    </h5>	
+    </details>
+<!-- here -->
     <details>
     <summary>
         home-server
