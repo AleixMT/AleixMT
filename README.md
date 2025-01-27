@@ -451,6 +451,7 @@ If you want to copy me that is a good place to start-->
     <h5 align="center">Cloud & serverless:</h5>
     <p align="center"> 
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src=".github/img/aws.jpg" alt="aws" width="60" height="60"/> </a> 
+        <a href="https://workspace.google.com/" target="_blank" rel="noreferrer"> <img src=".github/img/google-workspace.svg" alt="Google Workspace" width="60" height="60"/> </a> 
     </p> 
     </details>
     <details>
@@ -569,9 +570,11 @@ If you want to copy me that is a good place to start-->
                 of this organization, in which I am the informatics responsible.
             </li>
             <li>
-                As the informatics responsible my responsibilities were maintaining our web page made with Wordpress, 
+                As the informatics responsible my responsibilities were maintaining our web page made with WordPress, 
+                maintain our Google Workspace organization,
                 solve problems that users may have and take care of internal projects such as the migration of email 
-                accounts to the Google Suite or the automatic creation of email signatures for the board of directors.
+                accounts to the Google Suite, the automatic creation of email signatures for the board of directors or 
+                the automatic creation of course certificates.
             </li>
         </ul>	
     </details>
@@ -757,6 +760,17 @@ If you want to copy me that is a good place to start-->
           <li><i>Status</i>: <b>In progress</b></li>
           <li><i>Issue</i>: <b><a href="https://github.com/docker/roadmap/issues/617">#617</a></b></li>
           <li><i>Pull Request</i>: <b>❌ N/A</b></li>
+        </ul>
+    </details>
+    <details>
+        <summary>
+            <b>Automatic GitHub releases and minor quality of life updates</b> in <a href="https://github.com/ininavicode/arm-syntax-vscode-extension">ininavicode/arm-syntax-vscode-extension</a>
+        </summary>
+        <ul>
+          <li><i>Summary</i>: Pipeline to create automatic releases based on version number.</li>
+          <li><i>Status</i>: <b>Merged but still in progress</b></li>
+          <li><i>Issue</i>: <b>❌ N/A</b></li>
+          <li><i>Pull Request</i>: <b><a href="https://github.com/ininavicode/arm-syntax-vscode-extension/pull/1">✅ #1</a></b></li>
         </ul>
     </details>
 </details>
