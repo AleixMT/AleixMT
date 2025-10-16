@@ -72,6 +72,90 @@ If you want to copy me that is a good place to start-->
 		💼 My projects: 
 	</summary>
 	<br>
+    <details>
+      <summary id="project_Justicier">
+        Justicier
+      </summary>
+      <p align="center">
+        <img src=".github/img/justicier.png" alt="ICIQ-DMP / Justicier logo"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ICIQ-DMP/Justicier">Repository</a>
+      </p>
+      <i> September 2025 – Present </i>
+      <ul>
+        <li>Automation to process payroll PDFs and related documents to extract the relevant pages for a given employee and period of time.</li>
+        <li>Requests, input data, executions and results are managed by the employees in ICIQ who need to do this operation in a user-friendly environment using Microsoft tools.</li>
+        <li>Requests are made in Microsoft Forms and recorded in a Microsoft List. This Microsoft List is the source of truth for the parameters of the execution of the program.</li>
+        <li>New requests in the Form trigger an execution of a job in Microsoft Power Automate.</li>
+        <li>The execution in Power Automate triggers a workflow in Microsoft Approvals, which requests the permission of the supervisors to run the requested execution with the requested parameters.</li>
+        <li>If the supervisor approves the execution, a request is made in a Jenkins instance in an on-premises server to trigger an execution of the program.</li>
+        <li>The Jenkins instance is secured by being behind an NGINX logical firewall that restricts all traffic coming into the server except for the request to trigger the workflow, in a specific endpoint. Only the IP of the workstation of the data steward has full access to the Jenkins endpoints.</li>
+        <li>The program uses OneDrive client for Linux to continuously sync the input files in Microsoft Sharepoint with the processed files by the program.</li>
+        <li>Currently, all components are deployed using Docker and a helper script manually.</li>
+      </ul>
+      <h5 align="center">
+        <br>
+        Used technologies:
+        <br>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+          <img src=".github/img/python.svg" alt="python" width="60" height="60"/>
+        </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+          <img src=".github/img/bash.png" alt="bash" width="60" height="60"/>
+        </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/>
+        </a>
+        <a href="https://docs.github.com/actions" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".github/img/github_actions_w.png">
+            <source media="(prefers-color-scheme: light)" srcset=".github/img/github-actions.svg">
+            <img src=".github/img/github-actions.svg" alt="github-actions" width="60" height="60"/>
+          </picture>
+        </a>
+        <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+          <img src=".github/img/nginx.svg" alt="nginx" width="60" height="60"/>
+        </a>
+        <a href="https://yaml.org/" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset=".github/img/yaml_w.png">
+            <source media="(prefers-color-scheme: light)" srcset=".github/img/yaml.png">
+            <img src=".github/img/yaml.png" alt="yaml" width="60" height="60"/>
+          </picture>
+        </a>
+        <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-365.svg" alt="Microsoft 365" width="60" height="60"/>
+        </a>
+        <a href="https://www.microsoft.com/microsoft-365/microsoft-forms" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-forms.svg" alt="Microsoft Forms" width="60" height="60"/>
+        </a>
+        <a href="https://www.microsoft.com/microsoft-365/microsoft-lists" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-lists.svg" alt="Microsoft Lists" width="60" height="60"/>
+        </a>
+        <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-power-automate.svg" alt="Power Automate" width="60" height="60"/>
+        </a>
+        <a href="https://learn.microsoft.com/power-automate/approvals/overview" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-approvals.png" alt="Microsoft Approvals" width="60" height="60"/>
+        </a>
+        <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+          <img src=".github/img/jenkins.svg" alt="Jenkins" width="60" height="60"/>
+        </a>
+        <a href="https://www.microsoft.com/onedrive" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-onedrive.svg" alt="OneDrive" width="60" height="60"/>
+        </a>
+        <a href="https://www.microsoft.com/sharepoint" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-sharepoint.svg" alt="SharePoint" width="60" height="60"/>
+        </a>
+        <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+          <img src=".github/img/nginx.svg" alt="NGINX" width="60" height="60"/>
+        </a>
+        <a href="https://www.kernel.org/linux.html" target="_blank" rel="noreferrer">
+          <img src=".github/img/linux.svg" alt="Linux" width="60" height="60"/>
+        </a>
+      </h5>
+    </details>
 	<details>
 		<summary id="project_Linux-Auto-Customizer">
 			Linux Auto Customizer
@@ -260,6 +344,39 @@ If you want to copy me that is a good place to start-->
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src=".github/img/ubuntu.svg" alt="Ubuntu" width="60" height="60"/> </a>
     </h5>	
     </details>
+<!-- here -->
+    <details>
+    <summary>
+        github-backup
+    </summary>
+    <!--<p align="center">
+        <img src=".github/img/ICIQ-DMP.png" alt="Image with the main page of the ICIQ DMP documentation" width="1057" height="856"/>
+    </p>-->
+    <p align="center">
+    <a href="https://github.com/AleixMT/github-backup">Repository</a>
+    </p>
+    <!--<p align="center">
+    <a href="https://ICIQ-DMP-github.io">Web page</a>
+    </p>-->
+    <i> 2025 - Present </i>
+    <ul>
+        <li>Small but useful Python project to clone all repos from your GitLab and/or GitHub profile.</li>
+        <li>Still a work in progress but has the basic functionality.</li>
+    </ul>
+    <h5 align="center"> <br> Used technologies: <br>
+    <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noreferrer"> <img src=".github/img/markdown.png" alt="MarkDown" width="60" height="60"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".github/img/git.svg" alt="git" width="60" height="60"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".github/img/docker.svg" alt="docker" width="60" height="60"/> </a> 
+     <a href="https://www.github.com" target="_blank" rel="noreferrer">
+	    <picture>
+		<source media="(prefers-color-scheme: dark)" srcset=".github/img/github_actions_w.png">
+		<source media="(prefers-color-scheme: light)" srcset=".github/img/github-actions.svg">
+		<img src=".github/img/github-actions.svg" alt="github-actions" width="60" height="60"/> 
+	    </picture>
+    </a>
+    </h5>	
+    </details>
+<!-- here -->
     <details>
     <summary>
         home-server
@@ -388,9 +505,9 @@ If you want to copy me that is a good place to start-->
         <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src=".github/img/raspberry.png" alt="nintendo 3ds" width="60" height="60"/> </a> 
         <a href="https://en.wikipedia.org/wiki/Nintendo_3DS" target="_blank" rel="noreferrer">
 	    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=".github/img/3DS_w.png">
+                <source media="(prefers-color-scheme: dark)" srcset=".github/img/3ds.png">
 		<source media="(prefers-color-scheme: light)" srcset=".github/img/3ds.png">
-                <img src=".github/img/3DS.png" alt="3ds" width="60" height="60"/> 
+                <img src=".github/img/3DS_w.png" alt="3ds" width="60" height="60"/> 
             </picture>
 	</a> 
         <a href="https://en.wikipedia.org/wiki/Nintendo_Switch" target="_blank" rel="noreferrer"> <img src=".github/img/switch.png" alt="nintendo switch" width="60" height="60"/> </a> 
@@ -417,6 +534,9 @@ If you want to copy me that is a good place to start-->
                 <img src=".github/img/railway.svg" alt="railway" width="60" height="60"/> 
             </picture>
 	</a>
+        <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+          <img src=".github/img/jenkins.svg" alt="Jenkins" width="60" height="60"/>
+        </a>
         <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
 	    <picture>
                 <source media="(prefers-color-scheme: dark)" srcset=".github/img/vercel_w.png">
@@ -446,6 +566,27 @@ If you want to copy me that is a good place to start-->
 		<source media="(prefers-color-scheme: light)" srcset=".github/img/freedesktop.svg">
                 <img src=".github/img/freedesktop.svg" alt="freedesktop" width="60" height="60"/> 
             </picture>
+        <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-365.svg" alt="Microsoft 365" width="60" height="60"/>
+        </a>
+        <a href="https://www.microsoft.com/microsoft-365/microsoft-forms" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-forms.svg" alt="Microsoft Forms" width="60" height="60"/>
+        </a>
+        <a href="https://www.microsoft.com/microsoft-365/microsoft-lists" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-lists.svg" alt="Microsoft Lists" width="60" height="60"/>
+        </a>
+        <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-power-automate.svg" alt="Power Automate" width="60" height="60"/>
+        </a>
+        <a href="https://learn.microsoft.com/power-automate/approvals/overview" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-approvals.png" alt="Microsoft Approvals" width="60" height="60"/>
+        </a>
+        <a href="https://www.microsoft.com/onedrive" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-onedrive.svg" alt="OneDrive" width="60" height="60"/>
+        </a>
+        <a href="https://www.microsoft.com/sharepoint" target="_blank" rel="noreferrer">
+          <img src=".github/img/microsoft-sharepoint.svg" alt="SharePoint" width="60" height="60"/>
+        </a>
 	</a>
     </p>
     <h5 align="center">Cloud & serverless:</h5>
@@ -712,12 +853,57 @@ If you want to copy me that is a good place to start-->
 
 
 
-<!-- Publications -->
+<!-- Open-source collaborations -->
 <details>
     <summary>
         🤝 Open-source collaborations:
     </summary>
     <br>
+    <details>
+        <summary>
+            <b>Update docker.md</b> in <a href="https://github.com/abraunegg/onedrive">abraunegg/onedrive</a>
+        </summary>
+        <ul>
+          <li><i>Summary</i>: Update Docker documentation of the OneDrive client to explain a limitation on the usage of 
+some of the arguments in Docker image.</li>
+          <li><i>Status</i>: <b>Completed</b></li>
+          <li><i>Issue</i>: <b><a href="https://github.com/abraunegg/onedrive/issues/3465">#3465</a></b></li>
+          <li><i>Pull Request</i>: <b><a href="https://github.com/abraunegg/onedrive/pull/3467">✅ #3467</a></b></li>
+        </ul>
+    </details>
+    <details>
+        <summary>
+            <b>ADDED: improved the usability of create_readme by accepting parameter</b> in <a href="https://github.com/CSUC/RDR-scripts">CSUC/RDR-scripts</a>
+        </summary>
+        <ul>
+          <li><i>Summary</i>: Improves the usability of the `create_readme` script by accepting command-line parameters instead of hardcoding values.</li>
+          <li><i>Status</i>: <b>Open</b></li>
+          <li><i>Issue</i>: <b>None linked</b></li>
+          <li><i>Pull Request</i>: <b><a href="https://github.com/CSUC/RDR-scripts/pull/2">#2</a></b></li>
+        </ul>
+    </details>
+    <details>
+        <summary>
+            <b>ADDED: Docker support</b> in <a href="https://github.com/LopezGroup-ICIQ/care">LopezGroup-ICIQ/care</a>
+        </summary>
+        <ul>
+          <li><i>Summary</i>: Adds Docker support for the CARE project, including a Dockerfile and Makefile. Enables running the software with Docker without manually managing dependencies.</li>
+          <li><i>Status</i>: <b>Open</b></li>
+          <li><i>Issue</i>: <b>None linked</b></li>
+          <li><i>Pull Request</i>: <b><a href="https://github.com/LopezGroup-ICIQ/care/pull/13">#13</a></b></li>
+        </ul>
+    </details>
+    <details>
+        <summary>
+            <b>UPDATED: REVISAT script removed dependency from iPython Notebooks</b> in <a href="https://github.com/CSUC/RDR-scripts">CSUC/RDR-scripts</a>
+        </summary>
+        <ul>
+          <li><i>Summary</i>: Removes the dependency on iPython Notebooks from the REVISAT script. Adds requirements.txt, .gitignore, and updates README with instructions. :contentReference[oaicite:0]{index=0}</li>
+          <li><i>Status</i>: <b>Merged</b> :contentReference[oaicite:1]{index=1}</li>
+          <li><i>Issue</i>: <b>None linked</b></li>
+          <li><i>Pull Request</i>: <b><a href="https://github.com/CSUC/RDR-scripts/pull/1">#1</a></b> :contentReference[oaicite:2]{index=2}</li>
+        </ul>
+    </details>
     <details>
         <summary>
             <b>Overload method void uploadFile(String doi, File file); to void uploadFile(String doi, InputStream is, String filename)</b> in <a href="https://github.com/IQSS/dataverse-client-java">IQSS/dataverse-client-java</a>
